@@ -12,8 +12,6 @@ buildscript {
 allprojects {
     repositories {
         mavenCentral()
-        maven {
-            url "http://JRAF.org/static/maven/2"
-        }
+        maven { url "http://JRAF.org/static/maven/2" }
     }
 }
