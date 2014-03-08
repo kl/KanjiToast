@@ -26,7 +26,7 @@
     <string name="about_title">KanjiToast 1.0</string>
     <string name="about_text">
         This app is open source. To access the source code or post bug reports,
-        visit <a href="http://github.com/kl/KanjiToast">http://github.com/kl/KanjiToast</a>
+        visit <a href="https://github.com/kl/KanjiToast">http://github.com/kl/KanjiToast</a>
     </string>
 
 </resources>
