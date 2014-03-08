@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  xmlns:switchpref="http://schemas.android.com/apk/res-auto">
+
+    <org.jraf.android.backport.switchwidget.SwitchPreference
+        android:key="@string/pref_key_run_service"
+        android:title="@string/pref_title_run_service"
+        android:defaultValue="true"
+        switchpref:switchTextOff="@string/off"
+        switchpref:switchTextOn="@string/on"
+        android:summary="@string/pref_summary_run_service"/>
+
+    <CheckBoxPreference
+        android:key="@string/pref_key_start_service_boot"
+        android:title="@string/pref_title_start_service_boot"
+        android:summary="@string/pref_summary_start_service_boot"
+        android:defaultValue="false"/>
+    <CheckBoxPreference
+
+        android:key="@string/pref_key_kana_enabled"
+        android:title="@string/pref_title_kana_enabled"
+        android:summary="@string/pref_summary_kana_enabled"
+        android:defaultValue="false"/>
+
+    <ListPreference
+        android:key="@string/pref_key_keyword_length"
+        android:title="@string/pref_title_keyword_length"
+        android:summary="@string/pref_summary_keyword_length"
+        android:entries="@array/keyword_durations"
+        android:entryValues="@array/keyword_durations"
+        android:defaultValue="@string/pref_default_keyword_length"/>
+
+</PreferenceScreen>

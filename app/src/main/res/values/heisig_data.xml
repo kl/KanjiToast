@@ -1,0 +1,3039 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="heisig_data">
+
+        <item>一:one</item>
+        <item>二:two</item>
+        <item>三:three</item>
+        <item>四:four</item>
+        <item>五:five</item>
+        <item>六:six</item>
+        <item>七:seven</item>
+        <item>八:eight</item>
+        <item>九:nine</item>
+        <item>十:ten</item>
+        <item>口:mouth</item>
+        <item>日:day</item>
+        <item>月:month</item>
+        <item>田:rice field</item>
+        <item>目:eye</item>
+        <item>古:old</item>
+        <item>吾:I</item>
+        <item>冒:risk</item>
+        <item>朋:companion</item>
+        <item>明:bright</item>
+        <item>唱:chant</item>
+        <item>晶:sparkle</item>
+        <item>品:goods</item>
+        <item>呂:spine</item>
+        <item>昌:prosperous</item>
+        <item>早:early</item>
+        <item>旭:rising sun</item>
+        <item>世:generation</item>
+        <item>胃:stomach</item>
+        <item>旦:nightbreak</item>
+        <item>胆:gall bladder</item>
+        <item>亘:span</item>
+        <item>凹:concave</item>
+        <item>凸:convex</item>
+        <item>旧:olden times</item>
+        <item>自:oneself</item>
+        <item>白:white</item>
+        <item>百:hundred</item>
+        <item>中:in</item>
+        <item>千:thousand</item>
+        <item>舌:tongue</item>
+        <item>升:measuring box</item>
+        <item>昇:rise up</item>
+        <item>丸:round</item>
+        <item>寸:measurement</item>
+        <item>肘:elbow</item>
+        <item>専:specialty</item>
+        <item>博:Dr.</item>
+        <item>占:fortune-telling</item>
+        <item>上:above</item>
+        <item>下:below</item>
+        <item>卓:eminent</item>
+        <item>朝:morning</item>
+        <item>嘲:derision</item>
+        <item>只:only</item>
+        <item>貝:shellfish</item>
+        <item>唄:pop song</item>
+        <item>貞:upright</item>
+        <item>員:employee</item>
+        <item>貼:post a bill</item>
+        <item>見:see</item>
+        <item>児:newborn babe</item>
+        <item>元:beginning</item>
+        <item>頁:page</item>
+        <item>頑:stubborn</item>
+        <item>凡:mediocre</item>
+        <item>負:defeat</item>
+        <item>万:ten thousand</item>
+        <item>句:phrase</item>
+        <item>肌:texture</item>
+        <item>旬:decameron</item>
+        <item>勺:ladle</item>
+        <item>的:bull\'s eye</item>
+        <item>首:neck</item>
+        <item>乙:fish guts</item>
+        <item>乱:riot</item>
+        <item>直:straightaway</item>
+        <item>具:tool</item>
+        <item>真:true</item>
+        <item>工:craft</item>
+        <item>左:left</item>
+        <item>右:right</item>
+        <item>有:possess</item>
+        <item>賄:bribe</item>
+        <item>貢:tribute</item>
+        <item>項:paragraph</item>
+        <item>刀:sword</item>
+        <item>刃:blade</item>
+        <item>切:cut</item>
+        <item>召:seduce</item>
+        <item>昭:shining</item>
+        <item>則:rule</item>
+        <item>副:vice-</item>
+        <item>別:separate</item>
+        <item>丁:street</item>
+        <item>町:village</item>
+        <item>可:can</item>
+        <item>頂:place on the head</item>
+        <item>子:child</item>
+        <item>孔:cavity</item>
+        <item>了:complete</item>
+        <item>女:woman</item>
+        <item>好:fond</item>
+        <item>如:likeness</item>
+        <item>母:mama</item>
+        <item>貫:pierce</item>
+        <item>兄:elder brother</item>
+        <item>呪:curse</item>
+        <item>克:overcome</item>
+        <item>小:little</item>
+        <item>少:few</item>
+        <item>大:large</item>
+        <item>多:many</item>
+        <item>夕:evening</item>
+        <item>汐:eventide</item>
+        <item>外:outside</item>
+        <item>名:name</item>
+        <item>石:stone</item>
+        <item>肖:resemblance</item>
+        <item>硝:nitrate</item>
+        <item>砕:smash</item>
+        <item>砂:sand</item>
+        <item>妬:jealous</item>
+        <item>削:plane</item>
+        <item>光:ray</item>
+        <item>太:plump</item>
+        <item>器:utensil</item>
+        <item>臭:stinking</item>
+        <item>嗅:sniff</item>
+        <item>妙:exquisite</item>
+        <item>省:focus</item>
+        <item>厚:thick</item>
+        <item>奇:strange</item>
+        <item>川:stream</item>
+        <item>州:state</item>
+        <item>順:obey</item>
+        <item>水:water</item>
+        <item>氷:icicle</item>
+        <item>永:eternity</item>
+        <item>泉:spring</item>
+        <item>腺:gland</item>
+        <item>原:meadow</item>
+        <item>願:petition</item>
+        <item>泳:swim</item>
+        <item>沼:marsh</item>
+        <item>沖:open sea</item>
+        <item>汎:pan-</item>
+        <item>江:creek</item>
+        <item>汰:cleanse</item>
+        <item>汁:soup</item>
+        <item>沙:grains of sand</item>
+        <item>潮:tide</item>
+        <item>源:source</item>
+        <item>活:lively</item>
+        <item>消:extinguish</item>
+        <item>況:but of course</item>
+        <item>河:river</item>
+        <item>泊:overnight</item>
+        <item>湖:lake</item>
+        <item>測:fathom</item>
+        <item>土:soil</item>
+        <item>吐:spit</item>
+        <item>圧:pressure</item>
+        <item>埼:cape</item>
+        <item>垣:hedge</item>
+        <item>填:inlay</item>
+        <item>圭:squared jewel</item>
+        <item>封:seal</item>
+        <item>涯:horizon</item>
+        <item>寺:Buddhist temple</item>
+        <item>時:time</item>
+        <item>均:level</item>
+        <item>火:fire</item>
+        <item>炎:inflammation</item>
+        <item>煩:anxiety</item>
+        <item>淡:thin</item>
+        <item>灯:lamp</item>
+        <item>畑:farm</item>
+        <item>災:disaster</item>
+        <item>灰:ashes</item>
+        <item>点:spot</item>
+        <item>照:illuminate</item>
+        <item>魚:fish</item>
+        <item>漁:fishing</item>
+        <item>里:ri</item>
+        <item>黒:black</item>
+        <item>墨:black ink</item>
+        <item>鯉:carp</item>
+        <item>量:quantity</item>
+        <item>厘:rin</item>
+        <item>埋:bury</item>
+        <item>同:same</item>
+        <item>洞:den</item>
+        <item>胴:trunk</item>
+        <item>向:yonder</item>
+        <item>尚:esteem</item>
+        <item>字:character</item>
+        <item>守:guard</item>
+        <item>完:perfect</item>
+        <item>宣:proclaim</item>
+        <item>宵:wee hours</item>
+        <item>安:relax</item>
+        <item>宴:banquet</item>
+        <item>寄:draw near</item>
+        <item>富:wealth</item>
+        <item>貯:savings</item>
+        <item>木:tree</item>
+        <item>林:grove</item>
+        <item>森:forest</item>
+        <item>桂:Japanese Judas-tree</item>
+        <item>柏:oak</item>
+        <item>枠:frame</item>
+        <item>梢:treetops</item>
+        <item>棚:shelf</item>
+        <item>杏:apricot</item>
+        <item>桐:paulownia</item>
+        <item>植:plant</item>
+        <item>椅:chair</item>
+        <item>枯:wither</item>
+        <item>朴:crude</item>
+        <item>村:town</item>
+        <item>相:inter-</item>
+        <item>机:desk</item>
+        <item>本:book</item>
+        <item>札:tag</item>
+        <item>暦:calendar</item>
+        <item>案:plan</item>
+        <item>燥:parch</item>
+        <item>未:not yet</item>
+        <item>昧:obscure</item>
+        <item>末:extremity</item>
+        <item>沫:splash</item>
+        <item>味:flavor</item>
+        <item>妹:younger sister</item>
+        <item>朱:vermilion</item>
+        <item>株:stocks</item>
+        <item>若:young</item>
+        <item>草:grass</item>
+        <item>苦:suffering</item>
+        <item>苛:bullying</item>
+        <item>寛:tolerant</item>
+        <item>薄:dilute</item>
+        <item>葉:leaf</item>
+        <item>模:imitation</item>
+        <item>漠:vague</item>
+        <item>墓:grave</item>
+        <item>暮:livelihood</item>
+        <item>膜:membrane</item>
+        <item>苗:seedling</item>
+        <item>兆:portent</item>
+        <item>桃:peach tree</item>
+        <item>眺:stare</item>
+        <item>犬:dog</item>
+        <item>状:status quo</item>
+        <item>黙:silence</item>
+        <item>然:sort of thing</item>
+        <item>荻:reed</item>
+        <item>狩:hunt</item>
+        <item>猫:cat</item>
+        <item>牛:cow</item>
+        <item>特:special</item>
+        <item>告:revelation</item>
+        <item>先:before</item>
+        <item>洗:wash</item>
+        <item>介:jammed in</item>
+        <item>界:world</item>
+        <item>茶:tea</item>
+        <item>脊:spinal column</item>
+        <item>合:fit</item>
+        <item>塔:pagoda</item>
+        <item>王:king</item>
+        <item>玉:jewel</item>
+        <item>宝:treasure</item>
+        <item>珠:pearl</item>
+        <item>現:present</item>
+        <item>玩:toy</item>
+        <item>狂:lunatic</item>
+        <item>旺:effulgent</item>
+        <item>皇:emperor</item>
+        <item>呈:display</item>
+        <item>全:whole</item>
+        <item>栓:plug</item>
+        <item>理:logic</item>
+        <item>主:lord</item>
+        <item>注:pour</item>
+        <item>柱:pillar</item>
+        <item>金:gold</item>
+        <item>銑:pig iron</item>
+        <item>鉢:bowl</item>
+        <item>銅:copper</item>
+        <item>釣:angling</item>
+        <item>針:needle</item>
+        <item>銘:inscription</item>
+        <item>鎮:tranquillize</item>
+        <item>道:road-way</item>
+        <item>導:guidance</item>
+        <item>辻:crossing</item>
+        <item>迅:swift</item>
+        <item>造:create</item>
+        <item>迫:urge</item>
+        <item>逃:escape</item>
+        <item>辺:environs</item>
+        <item>巡:patrol</item>
+        <item>車:car</item>
+        <item>連:take along</item>
+        <item>軌:rut</item>
+        <item>輸:transport</item>
+        <item>喩:metaphor</item>
+        <item>前:in front</item>
+        <item>煎:roast</item>
+        <item>各:each</item>
+        <item>格:status</item>
+        <item>賂:graft</item>
+        <item>略:abbreviation</item>
+        <item>客:guest</item>
+        <item>額:forehead</item>
+        <item>夏:summer</item>
+        <item>処:dispose</item>
+        <item>条:twig</item>
+        <item>落:fall</item>
+        <item>冗:superfluous</item>
+        <item>冥:Hades</item>
+        <item>軍:army</item>
+        <item>輝:radiance</item>
+        <item>運:carry</item>
+        <item>冠:crown</item>
+        <item>夢:dream</item>
+        <item>坑:pit</item>
+        <item>高:tall</item>
+        <item>享:receive</item>
+        <item>塾:cram school</item>
+        <item>熟:mellow</item>
+        <item>亭:pavilion</item>
+        <item>京:capital</item>
+        <item>涼:refreshing</item>
+        <item>景:scenery</item>
+        <item>鯨:whale</item>
+        <item>舎:cottage</item>
+        <item>周:circumference</item>
+        <item>週:week</item>
+        <item>士:gentleman</item>
+        <item>吉:good luck</item>
+        <item>壮:robust</item>
+        <item>荘:villa</item>
+        <item>売:sell</item>
+        <item>学:study</item>
+        <item>覚:memorize</item>
+        <item>栄:flourish</item>
+        <item>書:write</item>
+        <item>津:haven</item>
+        <item>牧:breed</item>
+        <item>攻:aggression</item>
+        <item>敗:failure</item>
+        <item>枚:sheet of</item>
+        <item>故:happenstance</item>
+        <item>敬:awe</item>
+        <item>言:say</item>
+        <item>警:admonish</item>
+        <item>計:plot</item>
+        <item>詮:elucidate</item>
+        <item>獄:prison</item>
+        <item>訂:revise</item>
+        <item>訃:obituary</item>
+        <item>討:chastise</item>
+        <item>訓:instruction</item>
+        <item>詔:imperial edict</item>
+        <item>詰:packed</item>
+        <item>話:tale</item>
+        <item>詠:recitation</item>
+        <item>詩:poem</item>
+        <item>語:word</item>
+        <item>読:read</item>
+        <item>調:tune</item>
+        <item>談:discuss</item>
+        <item>諾:consent</item>
+        <item>諭:rebuke</item>
+        <item>式:style</item>
+        <item>試:test</item>
+        <item>弐:II (two)</item>
+        <item>域:range</item>
+        <item>賊:burglar</item>
+        <item>栽:plantation</item>
+        <item>載:load</item>
+        <item>茂:overgrown</item>
+        <item>戚:relatives</item>
+        <item>成:turn into</item>
+        <item>城:castle</item>
+        <item>誠:sincerity</item>
+        <item>威:intimidate</item>
+        <item>滅:destroy</item>
+        <item>減:dwindle</item>
+        <item>蔑:revile</item>
+        <item>桟:scaffold</item>
+        <item>銭:coin</item>
+        <item>浅:shallow</item>
+        <item>止:stop</item>
+        <item>歩:walk</item>
+        <item>渉:ford</item>
+        <item>頻:repeatedly</item>
+        <item>肯:agreement</item>
+        <item>企:undertake</item>
+        <item>歴:curriculum</item>
+        <item>武:warrior</item>
+        <item>賦:levy</item>
+        <item>正:correct</item>
+        <item>証:evidence</item>
+        <item>政:politics</item>
+        <item>定:determine</item>
+        <item>錠:lock</item>
+        <item>走:run</item>
+        <item>超:transcend</item>
+        <item>赴:proceed</item>
+        <item>越:surpass</item>
+        <item>是:just so</item>
+        <item>題:topic</item>
+        <item>堤:dike</item>
+        <item>建:build</item>
+        <item>鍵:key</item>
+        <item>延:prolong</item>
+        <item>誕:nativity</item>
+        <item>礎:cornerstone</item>
+        <item>婿:bridegroom</item>
+        <item>衣:garment</item>
+        <item>裁:tailor</item>
+        <item>装:attire</item>
+        <item>裏:back</item>
+        <item>壊:demolition</item>
+        <item>哀:pathetic</item>
+        <item>遠:distant</item>
+        <item>猿:monkey</item>
+        <item>初:first time</item>
+        <item>巾:towel</item>
+        <item>布:linen</item>
+        <item>帆:sail</item>
+        <item>幅:hanging scroll</item>
+        <item>帽:cap</item>
+        <item>幕:curtain</item>
+        <item>幌:canopy</item>
+        <item>錦:brocade</item>
+        <item>市:market</item>
+        <item>柿:persimmon</item>
+        <item>姉:elder sister</item>
+        <item>肺:lungs</item>
+        <item>帯:sash</item>
+        <item>滞:stagnate</item>
+        <item>刺:thorn</item>
+        <item>制:system</item>
+        <item>製:made in...</item>
+        <item>転:revolve</item>
+        <item>芸:technique</item>
+        <item>雨:rain</item>
+        <item>雲:cloud</item>
+        <item>曇:cloudy weather</item>
+        <item>雷:thunder</item>
+        <item>霜:frost</item>
+        <item>冬:winter</item>
+        <item>天:heavens</item>
+        <item>妖:bewitched</item>
+        <item>沃:irrigate</item>
+        <item>橋:bridge</item>
+        <item>嬌:attractive</item>
+        <item>立:stand up</item>
+        <item>泣:cry</item>
+        <item>章:badge</item>
+        <item>競:vie</item>
+        <item>帝:sovereign</item>
+        <item>諦:renunciation</item>
+        <item>童:juvenile</item>
+        <item>瞳:pupil</item>
+        <item>鐘:bell</item>
+        <item>商:make a deal</item>
+        <item>嫡:legitimate wife</item>
+        <item>適:suitable</item>
+        <item>滴:drip</item>
+        <item>敵:enemy</item>
+        <item>匕:spoon</item>
+        <item>叱:scold</item>
+        <item>匂:aroma</item>
+        <item>頃:about that time</item>
+        <item>北:north</item>
+        <item>背:stature</item>
+        <item>比:compare</item>
+        <item>昆:descendants</item>
+        <item>皆:all</item>
+        <item>楷:block letters</item>
+        <item>諧:orderliness</item>
+        <item>混:mix</item>
+        <item>渇:thirst</item>
+        <item>謁:audience</item>
+        <item>褐:brown</item>
+        <item>喝:hoarse</item>
+        <item>葛:kudzu</item>
+        <item>旨:delicious</item>
+        <item>脂:fat</item>
+        <item>詣:visit a shrine</item>
+        <item>壱:I (one)</item>
+        <item>毎:every</item>
+        <item>敏:cleverness</item>
+        <item>梅:plum</item>
+        <item>海:sea</item>
+        <item>乞:beg</item>
+        <item>乾:drought</item>
+        <item>腹:abdomen</item>
+        <item>複:duplicate</item>
+        <item>欠:lack</item>
+        <item>吹:blow</item>
+        <item>炊:cook</item>
+        <item>歌:song</item>
+        <item>軟:soft</item>
+        <item>次:next</item>
+        <item>茨:briar</item>
+        <item>資:assets</item>
+        <item>姿:figure</item>
+        <item>諮:consult with</item>
+        <item>賠:compensation</item>
+        <item>培:cultivate</item>
+        <item>剖:divide</item>
+        <item>音:sound</item>
+        <item>暗:darkness</item>
+        <item>韻:rhyme</item>
+        <item>識:discriminating</item>
+        <item>鏡:mirror</item>
+        <item>境:boundary</item>
+        <item>亡:deceased</item>
+        <item>盲:blind</item>
+        <item>妄:delusion</item>
+        <item>荒:laid waste</item>
+        <item>望:ambition</item>
+        <item>方:direction</item>
+        <item>妨:disturb</item>
+        <item>坊:boy</item>
+        <item>芳:perfumed</item>
+        <item>肪:obese</item>
+        <item>訪:call on</item>
+        <item>放:set free</item>
+        <item>激:violent</item>
+        <item>脱:undress</item>
+        <item>説:rumor</item>
+        <item>鋭:pointed</item>
+        <item>曽:formerly</item>
+        <item>増:increase</item>
+        <item>贈:presents</item>
+        <item>東:east</item>
+        <item>棟:ridgepole</item>
+        <item>凍:frozen</item>
+        <item>妊:pregnancy</item>
+        <item>廷:courts</item>
+        <item>染:dye</item>
+        <item>燃:burn</item>
+        <item>賓:V.I.P.</item>
+        <item>歳:year-end</item>
+        <item>県:prefecture</item>
+        <item>栃:horse chestnut</item>
+        <item>地:ground</item>
+        <item>池:pond</item>
+        <item>虫:insect</item>
+        <item>蛍:lightning bug</item>
+        <item>蛇:snake</item>
+        <item>虹:rainbow</item>
+        <item>蝶:butterfly</item>
+        <item>独:single</item>
+        <item>蚕:silkworm</item>
+        <item>風:wind</item>
+        <item>己:self</item>
+        <item>起:rouse</item>
+        <item>妃:queen</item>
+        <item>改:reformation</item>
+        <item>記:scribe</item>
+        <item>包:wrap</item>
+        <item>胞:placenta</item>
+        <item>砲:cannon</item>
+        <item>泡:bubble</item>
+        <item>亀:tortoise</item>
+        <item>電:electricity</item>
+        <item>竜:dragon</item>
+        <item>滝:waterfall</item>
+        <item>豚:pork</item>
+        <item>逐:pursue</item>
+        <item>遂:consummate</item>
+        <item>家:house</item>
+        <item>嫁:marry into</item>
+        <item>豪:overpowering</item>
+        <item>腸:intestines</item>
+        <item>場:location</item>
+        <item>湯:hot water</item>
+        <item>羊:sheep</item>
+        <item>美:beauty</item>
+        <item>洋:ocean</item>
+        <item>詳:detailed</item>
+        <item>鮮:fresh</item>
+        <item>達:accomplished</item>
+        <item>羨:envious</item>
+        <item>差:distinction</item>
+        <item>着:don</item>
+        <item>唯:solely</item>
+        <item>堆:piled high</item>
+        <item>椎:sweet oak</item>
+        <item>誰:who</item>
+        <item>焦:char</item>
+        <item>礁:reef</item>
+        <item>集:gather</item>
+        <item>准:quasi-</item>
+        <item>進:advance</item>
+        <item>雑:miscellaneous</item>
+        <item>雌:feminine</item>
+        <item>準:semi-</item>
+        <item>奮:stirred up</item>
+        <item>奪:rob</item>
+        <item>確:assurance</item>
+        <item>午:noon</item>
+        <item>許:permit</item>
+        <item>歓:delight</item>
+        <item>権:authority</item>
+        <item>観:outlook</item>
+        <item>羽:feathers</item>
+        <item>習:learn</item>
+        <item>翌:the following</item>
+        <item>曜:weekday</item>
+        <item>濯:laundry</item>
+        <item>曰:sayeth</item>
+        <item>困:quandary</item>
+        <item>固:harden</item>
+        <item>錮:weld</item>
+        <item>国:country</item>
+        <item>団:group</item>
+        <item>因:cause</item>
+        <item>咽:windpipe</item>
+        <item>姻:matrimony</item>
+        <item>園:park</item>
+        <item>回:-times</item>
+        <item>壇:podium</item>
+        <item>店:store</item>
+        <item>庫:warehouse</item>
+        <item>庭:courtyard</item>
+        <item>庁:government office</item>
+        <item>床:bed</item>
+        <item>麻:hemp</item>
+        <item>磨:grind</item>
+        <item>心:heart</item>
+        <item>忘:forget</item>
+        <item>恣:selfish</item>
+        <item>忍:endure</item>
+        <item>認:acknowledge</item>
+        <item>忌:mourning</item>
+        <item>志:intention</item>
+        <item>芯:wick</item>
+        <item>誌:document</item>
+        <item>忠:loyalty</item>
+        <item>串:shish kebab</item>
+        <item>患:afflicted</item>
+        <item>思:think</item>
+        <item>恩:grace</item>
+        <item>応:apply</item>
+        <item>意:idea</item>
+        <item>臆:cowardice</item>
+        <item>想:concept</item>
+        <item>息:breath</item>
+        <item>憩:recess</item>
+        <item>恵:favor</item>
+        <item>恐:fear</item>
+        <item>惑:beguile</item>
+        <item>感:emotion</item>
+        <item>憂:melancholy</item>
+        <item>寡:widow</item>
+        <item>忙:busy</item>
+        <item>悦:ecstasy</item>
+        <item>恒:constancy</item>
+        <item>悼:lament</item>
+        <item>悟:enlightenment</item>
+        <item>怖:dreadful</item>
+        <item>慌:disconcerted</item>
+        <item>悔:repent</item>
+        <item>憎:hate</item>
+        <item>慣:accustomed</item>
+        <item>愉:pleasure</item>
+        <item>惰:lazy</item>
+        <item>慎:humility</item>
+        <item>憾:remorse</item>
+        <item>憶:recollection</item>
+        <item>惧:disquieting</item>
+        <item>憧:yearn</item>
+        <item>憬:hanker</item>
+        <item>慕:pining</item>
+        <item>添:annexed</item>
+        <item>必:invariably</item>
+        <item>泌:ooze</item>
+        <item>手:hand</item>
+        <item>看:watch over</item>
+        <item>摩:chafe</item>
+        <item>我:ego</item>
+        <item>義:righteousness</item>
+        <item>議:deliberation</item>
+        <item>犠:sacrifice</item>
+        <item>抹:rub</item>
+        <item>拭:wipe</item>
+        <item>拉:yank</item>
+        <item>抱:embrace</item>
+        <item>搭:board</item>
+        <item>抄:extract</item>
+        <item>抗:confront</item>
+        <item>批:criticism</item>
+        <item>招:beckon</item>
+        <item>拓:clear the land</item>
+        <item>拍:clap</item>
+        <item>打:strike</item>
+        <item>拘:arrest</item>
+        <item>捨:discard</item>
+        <item>拐:kidnap</item>
+        <item>摘:pinch</item>
+        <item>挑:challenge</item>
+        <item>指:finger</item>
+        <item>持:hold</item>
+        <item>拶:imminent</item>
+        <item>括:fasten</item>
+        <item>揮:brandish</item>
+        <item>推:conjecture</item>
+        <item>揚:hoist</item>
+        <item>提:propose</item>
+        <item>損:damage</item>
+        <item>拾:pick up</item>
+        <item>担:shouldering</item>
+        <item>拠:foothold</item>
+        <item>描:sketch</item>
+        <item>操:maneuver</item>
+        <item>接:touch</item>
+        <item>掲:put up a notice</item>
+        <item>掛:hang</item>
+        <item>捗:make headway</item>
+        <item>研:polish</item>
+        <item>戒:commandment</item>
+        <item>弄:tinker with</item>
+        <item>械:contraption</item>
+        <item>鼻:nose</item>
+        <item>刑:punish</item>
+        <item>型:mould</item>
+        <item>才:genius</item>
+        <item>財:property</item>
+        <item>材:lumber</item>
+        <item>存:suppose</item>
+        <item>在:exist</item>
+        <item>乃:from</item>
+        <item>携:portable</item>
+        <item>及:reach out</item>
+        <item>吸:suck</item>
+        <item>扱:handle</item>
+        <item>丈:length</item>
+        <item>史:history</item>
+        <item>吏:officer</item>
+        <item>更:grow late</item>
+        <item>硬:stiff</item>
+        <item>梗:spiny</item>
+        <item>又:or again</item>
+        <item>双:pair</item>
+        <item>桑:mulberry</item>
+        <item>隻:vessels</item>
+        <item>護:safeguard</item>
+        <item>獲:seize</item>
+        <item>奴:guy</item>
+        <item>怒:angry</item>
+        <item>友:friend</item>
+        <item>抜:slip out</item>
+        <item>投:throw</item>
+        <item>没:drown</item>
+        <item>股:thigh</item>
+        <item>設:establishment</item>
+        <item>撃:beat</item>
+        <item>殻:husk</item>
+        <item>支:branch</item>
+        <item>技:skill</item>
+        <item>枝:bough</item>
+        <item>肢:limb</item>
+        <item>茎:stalk</item>
+        <item>怪:suspicious</item>
+        <item>軽:lightly</item>
+        <item>叔:uncle</item>
+        <item>督:coach</item>
+        <item>寂:loneliness</item>
+        <item>淑:graceful</item>
+        <item>反:anti-</item>
+        <item>坂:slope</item>
+        <item>板:plank</item>
+        <item>返:return</item>
+        <item>販:marketing</item>
+        <item>爪:claw</item>
+        <item>妥:gentle</item>
+        <item>乳:milk</item>
+        <item>浮:floating</item>
+        <item>淫:lewd</item>
+        <item>将:leader</item>
+        <item>奨:exhort</item>
+        <item>采:grab</item>
+        <item>採:pick</item>
+        <item>菜:vegetable</item>
+        <item>受:accept</item>
+        <item>授:impart</item>
+        <item>愛:love</item>
+        <item>曖:unclear</item>
+        <item>払:pay</item>
+        <item>広:wide</item>
+        <item>勾:hooked</item>
+        <item>拡:broaden</item>
+        <item>鉱:mineral</item>
+        <item>弁:valve</item>
+        <item>雄:masculine</item>
+        <item>台:pedestal</item>
+        <item>怠:neglect</item>
+        <item>治:reign</item>
+        <item>冶:metallurgy</item>
+        <item>始:commence</item>
+        <item>胎:womb</item>
+        <item>窓:window</item>
+        <item>去:gone</item>
+        <item>法:method</item>
+        <item>会:meeting</item>
+        <item>至:climax</item>
+        <item>室:room</item>
+        <item>到:arrival</item>
+        <item>致:doth</item>
+        <item>互:mutually</item>
+        <item>棄:abandon</item>
+        <item>育:bring up</item>
+        <item>撤:remove</item>
+        <item>充:allot</item>
+        <item>銃:gun</item>
+        <item>硫:sulfur</item>
+        <item>流:current</item>
+        <item>允:license</item>
+        <item>唆:tempt</item>
+        <item>出:exit</item>
+        <item>山:mountain</item>
+        <item>拙:bungling</item>
+        <item>岩:boulder</item>
+        <item>炭:charcoal</item>
+        <item>岐:branch off</item>
+        <item>峠:mountain peak</item>
+        <item>崩:crumble</item>
+        <item>密:secrecy</item>
+        <item>蜜:honey</item>
+        <item>嵐:storm</item>
+        <item>崎:promontory</item>
+        <item>崖:bluffs</item>
+        <item>入:enter</item>
+        <item>込:crowded</item>
+        <item>分:part</item>
+        <item>貧:poverty</item>
+        <item>頒:partition</item>
+        <item>公:public</item>
+        <item>松:pine tree</item>
+        <item>翁:venerable old man</item>
+        <item>訟:sue</item>
+        <item>谷:valley</item>
+        <item>浴:bathe</item>
+        <item>容:contain</item>
+        <item>溶:melt</item>
+        <item>欲:longing</item>
+        <item>裕:abundant</item>
+        <item>鉛:lead (metal)</item>
+        <item>沿:run alongside</item>
+        <item>賞:prize</item>
+        <item>党:party</item>
+        <item>堂:public chamber</item>
+        <item>常:usual</item>
+        <item>裳:skirt</item>
+        <item>掌:manipulate</item>
+        <item>皮:pelt</item>
+        <item>波:waves</item>
+        <item>婆:old woman</item>
+        <item>披:expose</item>
+        <item>破:rend</item>
+        <item>被:incur</item>
+        <item>残:remainder</item>
+        <item>殉:martyrdom</item>
+        <item>殊:particularly</item>
+        <item>殖:augment</item>
+        <item>列:file</item>
+        <item>裂:split</item>
+        <item>烈:ardent</item>
+        <item>死:death</item>
+        <item>葬:interment</item>
+        <item>瞬:wink</item>
+        <item>耳:ear</item>
+        <item>取:take</item>
+        <item>趣:gist</item>
+        <item>最:utmost</item>
+        <item>撮:snapshot</item>
+        <item>恥:shame</item>
+        <item>職:post</item>
+        <item>聖:holy</item>
+        <item>敢:daring</item>
+        <item>聴:listen</item>
+        <item>懐:pocket</item>
+        <item>慢:ridicule</item>
+        <item>漫:loose</item>
+        <item>買:buy</item>
+        <item>置:placement</item>
+        <item>罰:penalty</item>
+        <item>寧:rather</item>
+        <item>濁:voiced</item>
+        <item>環:ring</item>
+        <item>還:send back</item>
+        <item>夫:husband</item>
+        <item>扶:aid</item>
+        <item>渓:mountain stream</item>
+        <item>規:standard</item>
+        <item>替:exchange</item>
+        <item>賛:approve</item>
+        <item>潜:submerge</item>
+        <item>失:lose</item>
+        <item>鉄:iron</item>
+        <item>迭:alternate</item>
+        <item>臣:retainer</item>
+        <item>姫:princess</item>
+        <item>蔵:storehouse</item>
+        <item>臓:entrails</item>
+        <item>賢:intelligent</item>
+        <item>腎:kidney</item>
+        <item>堅:strict</item>
+        <item>臨:look to</item>
+        <item>覧:perusal</item>
+        <item>巨:gigantic</item>
+        <item>拒:repel</item>
+        <item>力:power</item>
+        <item>男:male</item>
+        <item>労:labor</item>
+        <item>募:recruit</item>
+        <item>劣:inferiority</item>
+        <item>功:achievement</item>
+        <item>勧:persuade</item>
+        <item>努:toil</item>
+        <item>勃:uprising</item>
+        <item>励:encourage</item>
+        <item>加:add</item>
+        <item>賀:congratulations</item>
+        <item>架:erect</item>
+        <item>脇:armpit</item>
+        <item>脅:threaten</item>
+        <item>協:co-</item>
+        <item>行:going</item>
+        <item>律:rhythm</item>
+        <item>復:restore</item>
+        <item>得:gain</item>
+        <item>従:accompany</item>
+        <item>徒:junior</item>
+        <item>待:wait</item>
+        <item>往:journey</item>
+        <item>征:subjugate</item>
+        <item>径:diameter</item>
+        <item>彼:he</item>
+        <item>役:duty</item>
+        <item>徳:benevolence</item>
+        <item>徹:penetrate</item>
+        <item>徴:indications</item>
+        <item>懲:penal</item>
+        <item>微:delicate</item>
+        <item>街:boulevard</item>
+        <item>桁:girder</item>
+        <item>衡:equilibrium</item>
+        <item>稿:draft</item>
+        <item>稼:earnings</item>
+        <item>程:extent</item>
+        <item>税:tax</item>
+        <item>稚:immature</item>
+        <item>和:harmony</item>
+        <item>移:shift</item>
+        <item>秒:second</item>
+        <item>秋:autumn</item>
+        <item>愁:distress</item>
+        <item>私:private</item>
+        <item>秩:regularity</item>
+        <item>秘:secret</item>
+        <item>称:appellation</item>
+        <item>利:profit</item>
+        <item>梨:pear tree</item>
+        <item>穫:harvest</item>
+        <item>穂:ear of a plant</item>
+        <item>稲:rice plant</item>
+        <item>香:incense</item>
+        <item>季:seasons</item>
+        <item>委:committee</item>
+        <item>秀:excel</item>
+        <item>透:transparent</item>
+        <item>誘:entice</item>
+        <item>稽:training</item>
+        <item>穀:cereals</item>
+        <item>菌:germ</item>
+        <item>萎:numb</item>
+        <item>米:rice</item>
+        <item>粉:flour</item>
+        <item>粘:sticky</item>
+        <item>粒:grains</item>
+        <item>粧:cosmetics</item>
+        <item>迷:astray</item>
+        <item>粋:chic</item>
+        <item>謎:riddle</item>
+        <item>糧:provisions</item>
+        <item>菊:chrysanthemum</item>
+        <item>奥:core</item>
+        <item>数:number</item>
+        <item>楼:watchtower</item>
+        <item>類:sort</item>
+        <item>漆:lacquer</item>
+        <item>膝:knee</item>
+        <item>様:Esq.</item>
+        <item>求:request</item>
+        <item>球:ball</item>
+        <item>救:salvation</item>
+        <item>竹:bamboo</item>
+        <item>笑:laugh</item>
+        <item>笠:bamboo hat</item>
+        <item>笹:bamboo grass</item>
+        <item>箋:stationery</item>
+        <item>筋:muscle</item>
+        <item>箱:box</item>
+        <item>筆:writing brush</item>
+        <item>筒:cylinder</item>
+        <item>等:etc.</item>
+        <item>算:calculate</item>
+        <item>答:solution</item>
+        <item>策:scheme</item>
+        <item>簿:register</item>
+        <item>築:fabricate</item>
+        <item>篭:basket</item>
+        <item>人:person</item>
+        <item>佐:assistant</item>
+        <item>侶:partner</item>
+        <item>但:however</item>
+        <item>住:dwell</item>
+        <item>位:rank</item>
+        <item>仲:go-between</item>
+        <item>体:body</item>
+        <item>悠:remote</item>
+        <item>件:affair</item>
+        <item>仕:attend</item>
+        <item>他:other</item>
+        <item>伏:prostrated</item>
+        <item>伝:transmit</item>
+        <item>仏:Buddha</item>
+        <item>休:rest</item>
+        <item>仮:provisional</item>
+        <item>伎:performing artist</item>
+        <item>伯:chief</item>
+        <item>俗:vulgar</item>
+        <item>信:faith</item>
+        <item>佳:excellent</item>
+        <item>依:reliant</item>
+        <item>例:example</item>
+        <item>個:individual</item>
+        <item>健:healthy</item>
+        <item>側:side</item>
+        <item>侍:waiter</item>
+        <item>停:halt</item>
+        <item>値:price</item>
+        <item>倣:emulate</item>
+        <item>傲:arrogance</item>
+        <item>倒:overthrow</item>
+        <item>偵:spy</item>
+        <item>僧:Buddhist priest</item>
+        <item>億:hundred million</item>
+        <item>儀:ceremony</item>
+        <item>償:reparation</item>
+        <item>仙:hermit</item>
+        <item>催:sponsor</item>
+        <item>仁:humanity</item>
+        <item>侮:scorn</item>
+        <item>使:use</item>
+        <item>便:convenience</item>
+        <item>倍:double</item>
+        <item>優:tenderness</item>
+        <item>伐:fell</item>
+        <item>宿:inn</item>
+        <item>傷:wound</item>
+        <item>保:protect</item>
+        <item>褒:praise</item>
+        <item>傑:greatness</item>
+        <item>付:adhere</item>
+        <item>符:token</item>
+        <item>府:municipality</item>
+        <item>任:responsibility</item>
+        <item>賃:fare</item>
+        <item>代:substitute</item>
+        <item>袋:sack</item>
+        <item>貸:lend</item>
+        <item>化:change</item>
+        <item>花:flower</item>
+        <item>貨:freight</item>
+        <item>傾:lean</item>
+        <item>何:what</item>
+        <item>荷:baggage</item>
+        <item>俊:sagacious</item>
+        <item>傍:bystander</item>
+        <item>俺:myself</item>
+        <item>久:long time</item>
+        <item>畝:furrow</item>
+        <item>囚:captured</item>
+        <item>内:inside</item>
+        <item>丙:third class</item>
+        <item>柄:design</item>
+        <item>肉:meat</item>
+        <item>腐:rot</item>
+        <item>座:sit</item>
+        <item>挫:sprain</item>
+        <item>卒:graduate</item>
+        <item>傘:umbrella</item>
+        <item>匁:monme</item>
+        <item>以:by means of</item>
+        <item>似:similar</item>
+        <item>併:join</item>
+        <item>瓦:tile</item>
+        <item>瓶:flower pot</item>
+        <item>宮:Shinto shrine</item>
+        <item>営:occupation</item>
+        <item>善:virtuous</item>
+        <item>膳:dining tray</item>
+        <item>年:year</item>
+        <item>夜:night</item>
+        <item>液:fluid</item>
+        <item>塚:hillock</item>
+        <item>幣:cash</item>
+        <item>蔽:cover over</item>
+        <item>弊:abuse</item>
+        <item>喚:yell</item>
+        <item>換:interchange</item>
+        <item>融:dissolve</item>
+        <item>施:alms</item>
+        <item>旋:rotation</item>
+        <item>遊:play</item>
+        <item>旅:trip</item>
+        <item>勿:not</item>
+        <item>物:thing</item>
+        <item>易:easy</item>
+        <item>賜:grant</item>
+        <item>尿:urine</item>
+        <item>尼:nun</item>
+        <item>尻:buttocks</item>
+        <item>泥:mud</item>
+        <item>塀:fence</item>
+        <item>履:footgear</item>
+        <item>屋:roof</item>
+        <item>握:grip</item>
+        <item>屈:yield</item>
+        <item>掘:dig</item>
+        <item>堀:ditch</item>
+        <item>居:reside</item>
+        <item>据:set</item>
+        <item>裾:hem</item>
+        <item>層:stratum</item>
+        <item>局:bureau</item>
+        <item>遅:slow</item>
+        <item>漏:leak</item>
+        <item>刷:printing</item>
+        <item>尺:shaku</item>
+        <item>尽:exhaust</item>
+        <item>沢:swamp</item>
+        <item>訳:translate</item>
+        <item>択:choose</item>
+        <item>昼:daytime</item>
+        <item>戸:door</item>
+        <item>肩:shoulder</item>
+        <item>房:tassel</item>
+        <item>扇:fan</item>
+        <item>炉:hearth</item>
+        <item>戻:re-</item>
+        <item>涙:tears</item>
+        <item>雇:employ</item>
+        <item>顧:look back</item>
+        <item>啓:disclose</item>
+        <item>示:show</item>
+        <item>礼:salutation</item>
+        <item>祥:auspicious</item>
+        <item>祝:celebrate</item>
+        <item>福:blessing</item>
+        <item>祉:welfare</item>
+        <item>社:company</item>
+        <item>視:inspection</item>
+        <item>奈:Nara</item>
+        <item>尉:military officer</item>
+        <item>慰:consolation</item>
+        <item>款:goodwill</item>
+        <item>禁:prohibition</item>
+        <item>襟:collar</item>
+        <item>宗:religion</item>
+        <item>崇:adore</item>
+        <item>祭:ritual</item>
+        <item>察:guess</item>
+        <item>擦:grate</item>
+        <item>由:wherefore</item>
+        <item>抽:pluck</item>
+        <item>油:oil</item>
+        <item>袖:sleeve</item>
+        <item>宙:mid-air</item>
+        <item>届:deliver</item>
+        <item>笛:flute</item>
+        <item>軸:axis</item>
+        <item>甲:armor</item>
+        <item>押:push</item>
+        <item>岬:headland</item>
+        <item>挿:insert</item>
+        <item>申:speaketh</item>
+        <item>伸:expand</item>
+        <item>神:gods</item>
+        <item>捜:search</item>
+        <item>果:fruit</item>
+        <item>菓:candy</item>
+        <item>課:chapter</item>
+        <item>裸:naked</item>
+        <item>斤:ax</item>
+        <item>析:chop</item>
+        <item>所:place</item>
+        <item>祈:pray</item>
+        <item>近:near</item>
+        <item>折:fold</item>
+        <item>哲:philosophy</item>
+        <item>逝:departed</item>
+        <item>誓:vow</item>
+        <item>斬:chop off</item>
+        <item>暫:temporarily</item>
+        <item>漸:steadily</item>
+        <item>断:severance</item>
+        <item>質:substance</item>
+        <item>斥:reject</item>
+        <item>訴:accusation</item>
+        <item>昨:yesterday</item>
+        <item>詐:lie</item>
+        <item>作:make</item>
+        <item>臼:mortar</item>
+        <item>毀:break</item>
+        <item>雪:snow</item>
+        <item>録:record</item>
+        <item>剥:peel off</item>
+        <item>尋:inquire</item>
+        <item>急:hurry</item>
+        <item>穏:calm</item>
+        <item>侵:encroach</item>
+        <item>浸:immersed</item>
+        <item>寝:lie down</item>
+        <item>婦:lady</item>
+        <item>掃:sweep</item>
+        <item>当:hit</item>
+        <item>彙:glossary</item>
+        <item>争:contend</item>
+        <item>浄:clean</item>
+        <item>事:matter</item>
+        <item>唐:T\'ang</item>
+        <item>糖:sugar</item>
+        <item>康:sane</item>
+        <item>逮:apprehend</item>
+        <item>伊:Italy</item>
+        <item>君:old boy</item>
+        <item>群:flock</item>
+        <item>耐:-proof</item>
+        <item>需:demand</item>
+        <item>儒:Confucian</item>
+        <item>端:edge</item>
+        <item>両:both</item>
+        <item>満:full</item>
+        <item>画:brush stroke</item>
+        <item>歯:tooth</item>
+        <item>曲:bend</item>
+        <item>曹:cadet</item>
+        <item>遭:encounter</item>
+        <item>漕:rowing</item>
+        <item>槽:vat</item>
+        <item>斗:Big Dipper</item>
+        <item>料:fee</item>
+        <item>科:department</item>
+        <item>図:map</item>
+        <item>用:utilize</item>
+        <item>庸:comfortable</item>
+        <item>備:equip</item>
+        <item>昔:once upon a time</item>
+        <item>錯:confused</item>
+        <item>借:borrow</item>
+        <item>惜:pity</item>
+        <item>措:set aside</item>
+        <item>散:scatter</item>
+        <item>廿:twenty</item>
+        <item>庶:commoner</item>
+        <item>遮:intercept</item>
+        <item>席:seat</item>
+        <item>度:degrees</item>
+        <item>渡:transit</item>
+        <item>奔:bustle</item>
+        <item>噴:erupt</item>
+        <item>墳:tomb</item>
+        <item>憤:aroused</item>
+        <item>焼:bake</item>
+        <item>暁:daybreak</item>
+        <item>半:half</item>
+        <item>伴:consort</item>
+        <item>畔:paddy ridge</item>
+        <item>判:judgment</item>
+        <item>拳:fist</item>
+        <item>券:ticket</item>
+        <item>巻:scroll</item>
+        <item>圏:sphere</item>
+        <item>勝:victory</item>
+        <item>藤:wisteria</item>
+        <item>謄:facsimilie</item>
+        <item>片:one-sided</item>
+        <item>版:printing block</item>
+        <item>之:of</item>
+        <item>乏:destitution</item>
+        <item>芝:turf</item>
+        <item>不:negative</item>
+        <item>否:negate</item>
+        <item>杯:cupfuls</item>
+        <item>矢:dart</item>
+        <item>矯:rectify</item>
+        <item>族:tribe</item>
+        <item>知:know</item>
+        <item>智:wisdom</item>
+        <item>挨:shove</item>
+        <item>矛:halberd</item>
+        <item>柔:tender</item>
+        <item>務:task</item>
+        <item>霧:fog</item>
+        <item>班:squad</item>
+        <item>帰:homecoming</item>
+        <item>弓:bow</item>
+        <item>引:pull</item>
+        <item>弔:condolences</item>
+        <item>弘:vast</item>
+        <item>弥:more and more</item>
+        <item>強:strong</item>
+        <item>弱:weak</item>
+        <item>溺:drowning</item>
+        <item>沸:seethe</item>
+        <item>費:expense</item>
+        <item>第:No.</item>
+        <item>弟:younger brother</item>
+        <item>巧:adroit</item>
+        <item>号:nickname</item>
+        <item>朽:decay</item>
+        <item>誇:boast</item>
+        <item>顎:chin</item>
+        <item>汚:dirty</item>
+        <item>与:bestow</item>
+        <item>写:copy</item>
+        <item>身:somebody</item>
+        <item>射:shoot</item>
+        <item>謝:apologize</item>
+        <item>老:old man</item>
+        <item>考:consider</item>
+        <item>孝:filial piety</item>
+        <item>教:teach</item>
+        <item>拷:torture</item>
+        <item>者:someone</item>
+        <item>煮:boil</item>
+        <item>著:renowned</item>
+        <item>署:signature</item>
+        <item>暑:sultry</item>
+        <item>諸:various</item>
+        <item>猪:boar</item>
+        <item>渚:strand</item>
+        <item>賭:gamble</item>
+        <item>峡:gorge</item>
+        <item>狭:cramped</item>
+        <item>挟:sandwiched</item>
+        <item>頬:cheek</item>
+        <item>追:chase</item>
+        <item>阜:large hill</item>
+        <item>師:expert</item>
+        <item>帥:commander</item>
+        <item>官:bureaucrat</item>
+        <item>棺:coffin</item>
+        <item>管:pipe</item>
+        <item>父:father</item>
+        <item>交:mingle</item>
+        <item>釜:cauldron</item>
+        <item>効:merit</item>
+        <item>較:contrast</item>
+        <item>校:exam</item>
+        <item>足:leg</item>
+        <item>促:stimulate</item>
+        <item>捉:nab</item>
+        <item>距:long-distance</item>
+        <item>路:path</item>
+        <item>露:dew</item>
+        <item>跳:hop</item>
+        <item>躍:leap</item>
+        <item>践:tread</item>
+        <item>踏:step</item>
+        <item>踪:trail</item>
+        <item>骨:skeleton</item>
+        <item>滑:slippery</item>
+        <item>髄:marrow</item>
+        <item>禍:calamity</item>
+        <item>渦:whirlpool</item>
+        <item>鍋:pot</item>
+        <item>過:overdo</item>
+        <item>阪:Heights</item>
+        <item>阿:Africa</item>
+        <item>際:occasion</item>
+        <item>障:hinder</item>
+        <item>隙:chink</item>
+        <item>随:follow</item>
+        <item>陪:auxiliary</item>
+        <item>陽:sunshine</item>
+        <item>陳:line up</item>
+        <item>防:ward off</item>
+        <item>附:affixed</item>
+        <item>院:Inst.</item>
+        <item>陣:camp</item>
+        <item>隊:regiment</item>
+        <item>墜:crash</item>
+        <item>降:descend</item>
+        <item>階:story</item>
+        <item>陛:highness</item>
+        <item>隣:neighboring</item>
+        <item>隔:isolate</item>
+        <item>隠:conceal</item>
+        <item>堕:degenerate</item>
+        <item>陥:collapse</item>
+        <item>穴:hole</item>
+        <item>空:empty</item>
+        <item>控:withdraw</item>
+        <item>突:stab</item>
+        <item>究:research</item>
+        <item>窒:plug up</item>
+        <item>窃:stealth</item>
+        <item>窟:cavern</item>
+        <item>窪:depression</item>
+        <item>搾:squeeze</item>
+        <item>窯:kiln</item>
+        <item>窮:hard up</item>
+        <item>探:grope</item>
+        <item>深:deep</item>
+        <item>丘:hill</item>
+        <item>岳:Point</item>
+        <item>兵:soldier</item>
+        <item>浜:seacoast</item>
+        <item>糸:thread</item>
+        <item>織:weave</item>
+        <item>繕:darning</item>
+        <item>縮:shrink</item>
+        <item>繁:luxuriant</item>
+        <item>縦:vertical</item>
+        <item>緻:fine</item>
+        <item>線:line</item>
+        <item>綻:come apart at the seams</item>
+        <item>締:tighten</item>
+        <item>維:fiber</item>
+        <item>羅:gauze</item>
+        <item>練:practice</item>
+        <item>緒:thong</item>
+        <item>続:continue</item>
+        <item>絵:picture</item>
+        <item>統:overall</item>
+        <item>絞:strangle</item>
+        <item>給:salary</item>
+        <item>絡:entwine</item>
+        <item>結:tie</item>
+        <item>終:end</item>
+        <item>級:class</item>
+        <item>紀:chronicle</item>
+        <item>紅:crimson</item>
+        <item>納:settlement</item>
+        <item>紡:spinning</item>
+        <item>紛:distract</item>
+        <item>紹:introduce</item>
+        <item>経:sutra</item>
+        <item>紳:sire</item>
+        <item>約:promise</item>
+        <item>細:dainty</item>
+        <item>累:accumulate</item>
+        <item>索:cord</item>
+        <item>総:general</item>
+        <item>綿:cotton</item>
+        <item>絹:silk</item>
+        <item>繰:winding</item>
+        <item>継:inherit</item>
+        <item>緑:green</item>
+        <item>縁:affinity</item>
+        <item>網:netting</item>
+        <item>緊:tense</item>
+        <item>紫:purple</item>
+        <item>縛:truss</item>
+        <item>縄:straw rope</item>
+        <item>幼:infancy</item>
+        <item>後:behind</item>
+        <item>幽:faint</item>
+        <item>幾:how many</item>
+        <item>機:mechanism</item>
+        <item>畿:capital suburbs</item>
+        <item>玄:mysterious</item>
+        <item>畜:livestock</item>
+        <item>蓄:amass</item>
+        <item>弦:bowstring</item>
+        <item>擁:hug</item>
+        <item>滋:nourishing</item>
+        <item>慈:mercy</item>
+        <item>磁:magnet</item>
+        <item>系:lineage</item>
+        <item>係:person in charge</item>
+        <item>孫:grandchild</item>
+        <item>遜:modest</item>
+        <item>懸:suspend</item>
+        <item>却:instead</item>
+        <item>脚:shins</item>
+        <item>卸:wholesale</item>
+        <item>御:honorable</item>
+        <item>服:clothing</item>
+        <item>命:fate</item>
+        <item>令:orders</item>
+        <item>零:zero</item>
+        <item>齢:age</item>
+        <item>冷:cool</item>
+        <item>領:jurisdiction</item>
+        <item>鈴:small bell</item>
+        <item>勇:courage</item>
+        <item>湧:bubble up</item>
+        <item>通:traffic</item>
+        <item>踊:jump</item>
+        <item>疑:doubt</item>
+        <item>擬:mimic</item>
+        <item>凝:congeal</item>
+        <item>範:pattern</item>
+        <item>犯:crime</item>
+        <item>氾:widespread</item>
+        <item>厄:unlucky</item>
+        <item>危:dangerous</item>
+        <item>宛:address</item>
+        <item>腕:arm</item>
+        <item>苑:garden</item>
+        <item>怨:grudge</item>
+        <item>柳:willow</item>
+        <item>卵:egg</item>
+        <item>留:detain</item>
+        <item>瑠:marine blue</item>
+        <item>貿:trade</item>
+        <item>印:stamp</item>
+        <item>興:entertain</item>
+        <item>酉:sign of the bird</item>
+        <item>酒:sake</item>
+        <item>酌:bartending</item>
+        <item>酎:hooch</item>
+        <item>酵:fermentation</item>
+        <item>酷:cruel</item>
+        <item>酬:repay</item>
+        <item>酪:dairy products</item>
+        <item>酢:vinegar</item>
+        <item>酔:drunk</item>
+        <item>配:distribute</item>
+        <item>酸:acid</item>
+        <item>猶:waver</item>
+        <item>尊:revered</item>
+        <item>豆:beans</item>
+        <item>頭:head</item>
+        <item>短:short</item>
+        <item>豊:bountiful</item>
+        <item>鼓:drum</item>
+        <item>喜:rejoice</item>
+        <item>樹:timber-trees</item>
+        <item>皿:dish</item>
+        <item>血:blood</item>
+        <item>盆:basin</item>
+        <item>盟:alliance</item>
+        <item>盗:steal</item>
+        <item>温:warm</item>
+        <item>蓋:lid</item>
+        <item>監:oversee</item>
+        <item>濫:overflow</item>
+        <item>鑑:specimen</item>
+        <item>藍:indigo</item>
+        <item>猛:fierce</item>
+        <item>盛:boom</item>
+        <item>塩:salt</item>
+        <item>銀:silver</item>
+        <item>恨:resentment</item>
+        <item>根:root</item>
+        <item>即:instant</item>
+        <item>爵:baron</item>
+        <item>節:node</item>
+        <item>退:retreat</item>
+        <item>限:limit</item>
+        <item>眼:eyeball</item>
+        <item>良:good</item>
+        <item>朗:melodious</item>
+        <item>浪:wandering</item>
+        <item>娘:daughter</item>
+        <item>食:eat</item>
+        <item>飯:meal</item>
+        <item>飲:drink</item>
+        <item>飢:hungry</item>
+        <item>餓:starve</item>
+        <item>飾:decorate</item>
+        <item>餌:feed</item>
+        <item>館:Bldg.</item>
+        <item>餅:mochi</item>
+        <item>養:foster</item>
+        <item>飽:sated</item>
+        <item>既:previously</item>
+        <item>概:outline</item>
+        <item>慨:rue</item>
+        <item>平:even</item>
+        <item>呼:call</item>
+        <item>坪:two-mat area</item>
+        <item>評:evaluate</item>
+        <item>刈:reap</item>
+        <item>刹:moment</item>
+        <item>希:hope</item>
+        <item>凶:villain</item>
+        <item>胸:bosom</item>
+        <item>離:detach</item>
+        <item>璃:crystal</item>
+        <item>殺:kill</item>
+        <item>爽:bracing</item>
+        <item>純:genuine</item>
+        <item>頓:immediate</item>
+        <item>鈍:dull</item>
+        <item>辛:spicy</item>
+        <item>辞:resign</item>
+        <item>梓:catalpa</item>
+        <item>宰:superintend</item>
+        <item>壁:wall</item>
+        <item>璧:holed gem</item>
+        <item>避:evade</item>
+        <item>新:new</item>
+        <item>薪:firewood</item>
+        <item>親:parent</item>
+        <item>幸:happiness</item>
+        <item>執:tenacious</item>
+        <item>摯:clasp</item>
+        <item>報:report</item>
+        <item>叫:shout</item>
+        <item>糾:twist</item>
+        <item>収:income</item>
+        <item>卑:lowly</item>
+        <item>碑:tombstone</item>
+        <item>陸:land</item>
+        <item>睦:intimate</item>
+        <item>勢:forces</item>
+        <item>熱:heat</item>
+        <item>菱:diamond</item>
+        <item>陵:mausoleum</item>
+        <item>亥:sign of the hog</item>
+        <item>核:nucleus</item>
+        <item>刻:engrave</item>
+        <item>該:above-stated</item>
+        <item>骸:remains</item>
+        <item>劾:censure</item>
+        <item>述:mention</item>
+        <item>術:art</item>
+        <item>寒:cold</item>
+        <item>塞:block up</item>
+        <item>醸:brew</item>
+        <item>譲:defer</item>
+        <item>壌:lot</item>
+        <item>嬢:lass</item>
+        <item>毒:poison</item>
+        <item>素:elementary</item>
+        <item>麦:barley</item>
+        <item>青:blue</item>
+        <item>精:refined</item>
+        <item>請:solicit</item>
+        <item>情:feelings</item>
+        <item>晴:clear up</item>
+        <item>清:pure</item>
+        <item>静:quiet</item>
+        <item>責:blame</item>
+        <item>績:exploits</item>
+        <item>積:volume</item>
+        <item>債:bond</item>
+        <item>漬:pickling</item>
+        <item>表:surface</item>
+        <item>俵:bag</item>
+        <item>潔:undefiled</item>
+        <item>契:pledge</item>
+        <item>喫:consume</item>
+        <item>害:harm</item>
+        <item>轄:control</item>
+        <item>割:proportion</item>
+        <item>憲:constitution</item>
+        <item>生:life</item>
+        <item>星:star</item>
+        <item>醒:awakening</item>
+        <item>姓:surname</item>
+        <item>性:sex</item>
+        <item>牲:animal sacrifice</item>
+        <item>産:products</item>
+        <item>隆:hump</item>
+        <item>峰:summit</item>
+        <item>蜂:bee</item>
+        <item>縫:sew</item>
+        <item>拝:worship</item>
+        <item>寿:longevity</item>
+        <item>鋳:casting</item>
+        <item>籍:enroll</item>
+        <item>春:springtime</item>
+        <item>椿:camellia</item>
+        <item>泰:peaceful</item>
+        <item>奏:play music</item>
+        <item>実:reality</item>
+        <item>奉:dedicate</item>
+        <item>俸:stipend</item>
+        <item>棒:rod</item>
+        <item>謹:discreet</item>
+        <item>僅:trifle</item>
+        <item>勤:diligence</item>
+        <item>漢:Sino-</item>
+        <item>嘆:sigh</item>
+        <item>難:difficult</item>
+        <item>華:splendor</item>
+        <item>垂:droop</item>
+        <item>唾:saliva</item>
+        <item>睡:drowsy</item>
+        <item>錘:spindle</item>
+        <item>乗:ride</item>
+        <item>剰:surplus</item>
+        <item>今:now</item>
+        <item>含:include</item>
+        <item>貪:covet</item>
+        <item>吟:versify</item>
+        <item>念:wish</item>
+        <item>捻:wrench</item>
+        <item>琴:harp</item>
+        <item>陰:shade</item>
+        <item>予:beforehand</item>
+        <item>序:preface</item>
+        <item>預:deposit</item>
+        <item>野:plains</item>
+        <item>兼:concurrently</item>
+        <item>嫌:dislike</item>
+        <item>鎌:sickle</item>
+        <item>謙:self-effacing</item>
+        <item>廉:bargain</item>
+        <item>西:west</item>
+        <item>価:value</item>
+        <item>要:need</item>
+        <item>腰:loins</item>
+        <item>票:ballot</item>
+        <item>漂:drift</item>
+        <item>標:signpost</item>
+        <item>栗:chestnut</item>
+        <item>慄:shudder</item>
+        <item>遷:transition</item>
+        <item>覆:capsize</item>
+        <item>煙:smoke</item>
+        <item>南:south</item>
+        <item>楠:camphor tree</item>
+        <item>献:offering</item>
+        <item>門:gates</item>
+        <item>問:question</item>
+        <item>閲:review</item>
+        <item>閥:clique</item>
+        <item>間:interval</item>
+        <item>闇:pitch dark</item>
+        <item>簡:simplicity</item>
+        <item>開:open</item>
+        <item>閉:closed</item>
+        <item>閣:tower</item>
+        <item>閑:leisure</item>
+        <item>聞:hear</item>
+        <item>潤:wet</item>
+        <item>欄:column</item>
+        <item>闘:fight</item>
+        <item>倉:godown</item>
+        <item>創:genesis</item>
+        <item>非:un-</item>
+        <item>俳:haiku</item>
+        <item>排:repudiate</item>
+        <item>悲:sad</item>
+        <item>罪:guilt</item>
+        <item>輩:comrade</item>
+        <item>扉:front door</item>
+        <item>侯:marquis</item>
+        <item>喉:throat</item>
+        <item>候:climate</item>
+        <item>決:decide</item>
+        <item>快:cheerful</item>
+        <item>偉:admirable</item>
+        <item>違:difference</item>
+        <item>緯:horizontal</item>
+        <item>衛:defense</item>
+        <item>韓:Korea</item>
+        <item>干:dry</item>
+        <item>肝:liver</item>
+        <item>刊:publish</item>
+        <item>汗:sweat</item>
+        <item>軒:flats</item>
+        <item>岸:beach</item>
+        <item>幹:tree trunk</item>
+        <item>芋:potato</item>
+        <item>宇:eaves</item>
+        <item>余:too much</item>
+        <item>除:exclude</item>
+        <item>徐:gradually</item>
+        <item>叙:confer</item>
+        <item>途:route</item>
+        <item>斜:diagonal</item>
+        <item>塗:paint</item>
+        <item>束:bundle</item>
+        <item>頼:trust</item>
+        <item>瀬:rapids</item>
+        <item>勅:imperial order</item>
+        <item>疎:alienate</item>
+        <item>辣:bitter</item>
+        <item>速:quick</item>
+        <item>整:organize</item>
+        <item>剣:saber</item>
+        <item>険:precipitous</item>
+        <item>検:examination</item>
+        <item>倹:frugal</item>
+        <item>重:heavy</item>
+        <item>動:move</item>
+        <item>腫:tumor</item>
+        <item>勲:meritorious deed</item>
+        <item>働:work</item>
+        <item>種:species</item>
+        <item>衝:collide</item>
+        <item>薫:fragrant</item>
+        <item>病:ill</item>
+        <item>痴:stupid</item>
+        <item>痘:pox</item>
+        <item>症:symptoms</item>
+        <item>瘍:carbuncle</item>
+        <item>痩:lose weight</item>
+        <item>疾:rapidly</item>
+        <item>嫉:envy</item>
+        <item>痢:diarrhea</item>
+        <item>痕:scar</item>
+        <item>疲:tired</item>
+        <item>疫:epidemic</item>
+        <item>痛:pain</item>
+        <item>癖:mannerism</item>
+        <item>匿:hide</item>
+        <item>匠:artisan</item>
+        <item>医:doctor</item>
+        <item>匹:equal</item>
+        <item>区:ward</item>
+        <item>枢:hinge</item>
+        <item>殴:assault</item>
+        <item>欧:Europe</item>
+        <item>抑:repress</item>
+        <item>仰:faceup</item>
+        <item>迎:welcome</item>
+        <item>登:ascend</item>
+        <item>澄:lucidity</item>
+        <item>発:discharge</item>
+        <item>廃:abolish</item>
+        <item>僚:colleague</item>
+        <item>瞭:obvious</item>
+        <item>寮:dormitory</item>
+        <item>療:heal</item>
+        <item>彫:carve</item>
+        <item>形:shape</item>
+        <item>影:shadow</item>
+        <item>杉:cedar</item>
+        <item>彩:coloring</item>
+        <item>彰:patent</item>
+        <item>彦:lad</item>
+        <item>顔:face</item>
+        <item>須:ought</item>
+        <item>膨:swell</item>
+        <item>参:visit</item>
+        <item>惨:wretched</item>
+        <item>修:discipline</item>
+        <item>珍:rare</item>
+        <item>診:checkup</item>
+        <item>文:sentence</item>
+        <item>対:vis-a-vis</item>
+        <item>紋:family crest</item>
+        <item>蚊:mosquito</item>
+        <item>斑:speckled</item>
+        <item>斉:adjusted</item>
+        <item>剤:dose</item>
+        <item>済:finish</item>
+        <item>斎:purification</item>
+        <item>粛:solemn</item>
+        <item>塁:bases</item>
+        <item>楽:music</item>
+        <item>薬:medicine</item>
+        <item>率:ratio</item>
+        <item>渋:astringent</item>
+        <item>摂:vicarious</item>
+        <item>央:center</item>
+        <item>英:England</item>
+        <item>映:reflect</item>
+        <item>赤:red</item>
+        <item>赦:pardon</item>
+        <item>変:unusual</item>
+        <item>跡:tracks</item>
+        <item>蛮:barbarian</item>
+        <item>恋:romance</item>
+        <item>湾:gulf</item>
+        <item>黄:yellow</item>
+        <item>横:sideways</item>
+        <item>把:grasp</item>
+        <item>色:color</item>
+        <item>絶:discontinue</item>
+        <item>艶:glossy</item>
+        <item>肥:fertilizer</item>
+        <item>甘:sweet</item>
+        <item>紺:navy blue</item>
+        <item>某:so-and-so</item>
+        <item>謀:conspire</item>
+        <item>媒:mediator</item>
+        <item>欺:deceit</item>
+        <item>棋:chess piece</item>
+        <item>旗:national flag</item>
+        <item>期:period</item>
+        <item>碁:Go</item>
+        <item>基:fundamentals</item>
+        <item>甚:tremendously</item>
+        <item>勘:intuition</item>
+        <item>堪:withstand</item>
+        <item>貴:precious</item>
+        <item>遺:bequeath</item>
+        <item>遣:dispatch</item>
+        <item>潰:defile</item>
+        <item>舞:dance</item>
+        <item>無:nothingness</item>
+        <item>組:association</item>
+        <item>粗:coarse</item>
+        <item>租:tariff</item>
+        <item>狙:aim at</item>
+        <item>祖:ancestor</item>
+        <item>阻:thwart</item>
+        <item>査:investigate</item>
+        <item>助:help</item>
+        <item>宜:best regards</item>
+        <item>畳:tatami mat</item>
+        <item>並:row</item>
+        <item>普:universal</item>
+        <item>譜:musical score</item>
+        <item>湿:damp</item>
+        <item>顕:appear</item>
+        <item>繊:slender</item>
+        <item>霊:spirits</item>
+        <item>業:profession</item>
+        <item>撲:slap</item>
+        <item>僕:me</item>
+        <item>共:together</item>
+        <item>供:submit</item>
+        <item>異:uncommon</item>
+        <item>翼:wing</item>
+        <item>戴:accept humbly</item>
+        <item>洪:deluge</item>
+        <item>港:harbor</item>
+        <item>暴:outburst</item>
+        <item>爆:bomb</item>
+        <item>恭:respect</item>
+        <item>選:elect</item>
+        <item>殿:Mr.</item>
+        <item>井:well</item>
+        <item>丼:donburi</item>
+        <item>囲:surround</item>
+        <item>耕:till</item>
+        <item>亜:Asia</item>
+        <item>悪:bad</item>
+        <item>円:circle</item>
+        <item>角:angle</item>
+        <item>触:contact</item>
+        <item>解:unravel</item>
+        <item>再:again</item>
+        <item>講:lecture</item>
+        <item>購:subscription</item>
+        <item>構:posture</item>
+        <item>溝:gutter</item>
+        <item>論:argument</item>
+        <item>倫:ethics</item>
+        <item>輪:wheel</item>
+        <item>偏:partial</item>
+        <item>遍:everywhere</item>
+        <item>編:compilation</item>
+        <item>冊:tome</item>
+        <item>柵:palisade</item>
+        <item>典:code</item>
+        <item>氏:family name</item>
+        <item>紙:paper</item>
+        <item>婚:marriage</item>
+        <item>低:lower</item>
+        <item>抵:resist</item>
+        <item>底:bottom</item>
+        <item>民:people</item>
+        <item>眠:sleep</item>
+        <item>捕:catch</item>
+        <item>哺:suckle</item>
+        <item>浦:bay</item>
+        <item>蒲:bullrush</item>
+        <item>舗:shop</item>
+        <item>補:supplement</item>
+        <item>邸:residence</item>
+        <item>郭:enclosure</item>
+        <item>郡:county</item>
+        <item>郊:outskirts</item>
+        <item>部:section</item>
+        <item>都:metropolis</item>
+        <item>郵:mail</item>
+        <item>邦:home country</item>
+        <item>那:interrogative</item>
+        <item>郷:hometown</item>
+        <item>響:echo</item>
+        <item>郎:son</item>
+        <item>廊:corridor</item>
+        <item>盾:shield</item>
+        <item>循:sequential</item>
+        <item>派:faction</item>
+        <item>脈:vein</item>
+        <item>衆:masses</item>
+        <item>逓:parcel post</item>
+        <item>段:grade</item>
+        <item>鍛:forge</item>
+        <item>后:empress</item>
+        <item>幻:phantasm</item>
+        <item>司:director</item>
+        <item>伺:pay respects</item>
+        <item>詞:parts of speech</item>
+        <item>飼:domesticate</item>
+        <item>嗣:heir</item>
+        <item>舟:boat</item>
+        <item>舶:liner</item>
+        <item>航:navigate</item>
+        <item>般:carrier</item>
+        <item>舷:gunwale</item>
+        <item>盤:tray</item>
+        <item>搬:conveyor</item>
+        <item>船:ship</item>
+        <item>艦:warship</item>
+        <item>艇:rowboat</item>
+        <item>瓜:melon</item>
+        <item>弧:arc</item>
+        <item>孤:orphan</item>
+        <item>繭:cocoon</item>
+        <item>益:benefit</item>
+        <item>暇:spare time</item>
+        <item>敷:spread</item>
+        <item>来:come</item>
+        <item>気:spirit</item>
+        <item>汽:vapor</item>
+        <item>飛:fly</item>
+        <item>沈:sink</item>
+        <item>枕:pillow</item>
+        <item>妻:wife</item>
+        <item>凄:nifty</item>
+        <item>衰:decline</item>
+        <item>衷:inmost</item>
+        <item>面:mask</item>
+        <item>麺:noodles</item>
+        <item>革:leather</item>
+        <item>靴:shoes</item>
+        <item>覇:hegemony</item>
+        <item>声:voice</item>
+        <item>眉:eyebrow</item>
+        <item>呉:give</item>
+        <item>娯:recreation</item>
+        <item>誤:mistake</item>
+        <item>蒸:steam</item>
+        <item>承:acquiesce</item>
+        <item>函:bin</item>
+        <item>極:poles</item>
+        <item>牙:tusk</item>
+        <item>芽:bud</item>
+        <item>邪:wicked</item>
+        <item>雅:gracious</item>
+        <item>釈:explanation</item>
+        <item>番:turn</item>
+        <item>審:hearing</item>
+        <item>翻:flip</item>
+        <item>藩:clan</item>
+        <item>毛:fur</item>
+        <item>耗:decrease</item>
+        <item>尾:tail</item>
+        <item>宅:home</item>
+        <item>託:consign</item>
+        <item>為:do</item>
+        <item>偽:falsehood</item>
+        <item>畏:apprehensive</item>
+        <item>長:long</item>
+        <item>張:lengthen</item>
+        <item>帳:notebook</item>
+        <item>脹:dilate</item>
+        <item>髪:hair of the head</item>
+        <item>展:unfold</item>
+        <item>喪:miss</item>
+        <item>巣:nest</item>
+        <item>単:simple</item>
+        <item>戦:war</item>
+        <item>禅:Zen</item>
+        <item>弾:bullet</item>
+        <item>桜:cherry tree</item>
+        <item>獣:animal</item>
+        <item>脳:brain</item>
+        <item>悩:trouble</item>
+        <item>厳:stern</item>
+        <item>鎖:chain</item>
+        <item>挙:raise</item>
+        <item>誉:reputation</item>
+        <item>猟:game hunting</item>
+        <item>鳥:bird</item>
+        <item>鳴:chirp</item>
+        <item>鶴:crane</item>
+        <item>烏:crow</item>
+        <item>蔦:vine</item>
+        <item>鳩:pigeon</item>
+        <item>鶏:chicken</item>
+        <item>島:island</item>
+        <item>暖:warmth</item>
+        <item>媛:beautiful woman</item>
+        <item>援:abet</item>
+        <item>緩:slacken</item>
+        <item>属:belong</item>
+        <item>嘱:entrust</item>
+        <item>偶:accidentally</item>
+        <item>遇:interview</item>
+        <item>愚:foolish</item>
+        <item>隅:corner</item>
+        <item>逆:inverted</item>
+        <item>塑:model</item>
+        <item>遡:go upstream</item>
+        <item>岡:Mount</item>
+        <item>鋼:steel</item>
+        <item>綱:hawser</item>
+        <item>剛:sturdy</item>
+        <item>缶:tin can</item>
+        <item>陶:pottery</item>
+        <item>揺:swing</item>
+        <item>謡:Noh chanting</item>
+        <item>鬱:gloom</item>
+        <item>就:concerning</item>
+        <item>蹴:kick</item>
+        <item>懇:sociable</item>
+        <item>墾:groundbreaking</item>
+        <item>貌:countenance</item>
+        <item>免:excuse</item>
+        <item>逸:elude</item>
+        <item>晩:nightfall</item>
+        <item>勉:exertion</item>
+        <item>象:elephant</item>
+        <item>像:statue</item>
+        <item>馬:horse</item>
+        <item>駒:pony</item>
+        <item>験:verification</item>
+        <item>騎:equestrian</item>
+        <item>駐:parking</item>
+        <item>駆:drive</item>
+        <item>駅:station</item>
+        <item>騒:boisterous</item>
+        <item>駄:burdensome</item>
+        <item>驚:wonder</item>
+        <item>篤:fervent</item>
+        <item>罵:insult</item>
+        <item>騰:inflation</item>
+        <item>虎:tiger</item>
+        <item>虜:captive</item>
+        <item>膚:skin</item>
+        <item>虚:void</item>
+        <item>戯:frolic</item>
+        <item>虞:uneasiness</item>
+        <item>慮:prudence</item>
+        <item>劇:drama</item>
+        <item>虐:tyrannize</item>
+        <item>鹿:deer</item>
+        <item>麓:foot of a mountain</item>
+        <item>薦:recommend</item>
+        <item>慶:jubilation</item>
+        <item>麗:lovely</item>
+        <item>熊:bear</item>
+        <item>能:ability</item>
+        <item>態:attitude</item>
+        <item>寅:sign of the tiger</item>
+        <item>演:performance</item>
+        <item>辰:sign of the dragon</item>
+        <item>辱:embarrass</item>
+        <item>震:quake</item>
+        <item>振:shake</item>
+        <item>娠:with child</item>
+        <item>唇:lips</item>
+        <item>農:agriculture</item>
+        <item>濃:concentrated</item>
+        <item>送:send off</item>
+        <item>関:connection</item>
+        <item>咲:blossom</item>
+        <item>鬼:ghost</item>
+        <item>醜:ugly</item>
+        <item>魂:soul</item>
+        <item>魔:witch</item>
+        <item>魅:fascination</item>
+        <item>塊:clod</item>
+        <item>襲:attack</item>
+        <item>嚇:upbraid</item>
+        <item>朕:majestic plural</item>
+        <item>雰:atmosphere</item>
+        <item>箇:item</item>
+        <item>錬:tempering</item>
+        <item>遵:abide by</item>
+        <item>罷:quit</item>
+        <item>屯:barracks</item>
+        <item>且:moreover</item>
+        <item>藻:seaweed</item>
+        <item>隷:slave</item>
+        <item>癒:healing</item>
+        <item>丹:cinnabar</item>
+        <item>潟:lagoon</item>
+        <item>丑:sign of the cow</item>
+        <item>羞:humiliate</item>
+        <item>卯:sign of the hare</item>
+        <item>巳:sign of the snake</item>
+        <item>此:this here</item>
+        <item>柴:brushwood</item>
+        <item>砦:fort</item>
+        <item>些:whit</item>
+        <item>髭:beard</item>
+        <item>禽:fowl</item>
+        <item>檎:apple</item>
+        <item>憐:sympathize with</item>
+        <item>燐:phosphorus</item>
+        <item>麟:camelopard</item>
+        <item>鱗:scaled</item>
+        <item>奄:encompassing</item>
+        <item>庵:hermitage</item>
+        <item>掩:shrouded</item>
+        <item>悛:make amends</item>
+        <item>駿:steed</item>
+        <item>峻:steep</item>
+        <item>竣:complete a job</item>
+        <item>舅:father-in-law</item>
+        <item>鼠:mouse</item>
+        <item>鑿:bore</item>
+        <item>艘:small craft</item>
+        <item>犀:rhinoceros</item>
+        <item>皐:lunar month</item>
+        <item>畷:rice-field footpath</item>
+        <item>綴:mend</item>
+        <item>爾:let it be</item>
+        <item>璽:imperial seal</item>
+        <item>鎧:suit of armor</item>
+        <item>凱:triumph</item>
+        <item>呑:quaff</item>
+        <item>韮:leek</item>
+        <item>籤:lottery</item>
+        <item>懺:penitential</item>
+        <item>芻:hay</item>
+        <item>雛:chick</item>
+        <item>趨:scurry</item>
+        <item>尤:understandably</item>
+        <item>厖:immense</item>
+        <item>或:a</item>
+        <item>兎:rabbit</item>
+        <item>也:est</item>
+        <item>尭:lofty</item>
+        <item>巴:comma-design</item>
+        <item>甫:offspring</item>
+        <item>疋:critters</item>
+        <item>菫:violet</item>
+        <item>曼:mandala</item>
+        <item>云:quote</item>
+        <item>卜:augury</item>
+        <item>喬:heaven-high</item>
+        <item>莫:shalt</item>
+        <item>倭:Yamato</item>
+        <item>侠:chivalry</item>
+        <item>倦:fed up</item>
+        <item>佼:comely</item>
+        <item>俄:abrupt</item>
+        <item>佃:work a field</item>
+        <item>伶:minstrel</item>
+        <item>仔:animal offspring</item>
+        <item>仇:foe</item>
+        <item>伽:look after</item>
+        <item>僻:biased</item>
+        <item>儲:make a profit</item>
+        <item>倖:bliss</item>
+        <item>僑:emigrant</item>
+        <item>侃:integrity</item>
+        <item>倶:mate</item>
+        <item>侭:as is</item>
+        <item>佑:adjutant</item>
+        <item>俣:fork in a road</item>
+        <item>傭:hire</item>
+        <item>偲:memorial</item>
+        <item>脩:dried meat</item>
+        <item>倅:my son</item>
+        <item>做:make do</item>
+        <item>冴:sharp</item>
+        <item>凋:wilt</item>
+        <item>凌:pull through</item>
+        <item>凛:stately</item>
+        <item>凧:kite</item>
+        <item>凪:lull</item>
+        <item>夙:earlybird</item>
+        <item>鳳:phoenix</item>
+        <item>劉:slaughter</item>
+        <item>剃:shave</item>
+        <item>厭:despondent</item>
+        <item>雁:wild goose</item>
+        <item>贋:counterfeit</item>
+        <item>厨:kitchen</item>
+        <item>仄:insinuate</item>
+        <item>哨:scout</item>
+        <item>咎:reprehend</item>
+        <item>囁:whisper</item>
+        <item>喋:chatter</item>
+        <item>嘩:quarrel</item>
+        <item>噂:gossip</item>
+        <item>咳:cough</item>
+        <item>喧:clamor</item>
+        <item>叩:bash</item>
+        <item>嘘:fib</item>
+        <item>啄:peck at</item>
+        <item>吠:barking</item>
+        <item>吊:dangle</item>
+        <item>噛:chew</item>
+        <item>叶:within my ability</item>
+        <item>吻:sides of the mouth</item>
+        <item>吃:stammer</item>
+        <item>噺:spin a tale</item>
+        <item>噌:miso</item>
+        <item>邑:city walls</item>
+        <item>呆:dumbfounded</item>
+        <item>喰:ingest</item>
+        <item>埴:clay</item>
+        <item>坤:authochthonous</item>
+        <item>壕:dugout</item>
+        <item>垢:blemish</item>
+        <item>坦:flat</item>
+        <item>埠:wharf</item>
+        <item>堰:dam</item>
+        <item>堵:railing</item>
+        <item>嬰:suckling infant</item>
+        <item>姦:violate</item>
+        <item>婢:handmaiden</item>
+        <item>婉:well finished</item>
+        <item>娼:harlot</item>
+        <item>妓:courtesan</item>
+        <item>娃:fair</item>
+        <item>姪:niece</item>
+        <item>嬬:mistress</item>
+        <item>姥:aged woman</item>
+        <item>姑:mother-in-law</item>
+        <item>姐:young miss</item>
+        <item>嬉:overjoyed</item>
+        <item>孕:expecting</item>
+        <item>孜:assiduous</item>
+        <item>宥:soothe</item>
+        <item>寓:imply</item>
+        <item>宏:extensive</item>
+        <item>牢:jail</item>
+        <item>宋:Sung dynasty</item>
+        <item>宍:venison</item>
+        <item>屠:butchering</item>
+        <item>屁:fart</item>
+        <item>屑:rubbish</item>
+        <item>屡:frequently</item>
+        <item>屍:corpse</item>
+        <item>屏:folding screen</item>
+        <item>嵩:high-reaching</item>
+        <item>崚:rugged mountains</item>
+        <item>峨:high mountain</item>
+        <item>嶺:mountaintop</item>
+        <item>嵌:fit into</item>
+        <item>嵯:rocky</item>
+        <item>帖:quire</item>
+        <item>幡:banner</item>
+        <item>幟:pennant</item>
+        <item>庖:cleaver</item>
+        <item>廓:licensed quarters</item>
+        <item>庇:overhang</item>
+        <item>鷹:hawk</item>
+        <item>庄:shire</item>
+        <item>廟:tomb sanctuary</item>
+        <item>彊:strengthen</item>
+        <item>弛:loosen</item>
+        <item>粥:rice gruel</item>
+        <item>挽:lathe</item>
+        <item>撞:bump into</item>
+        <item>扮:disguise</item>
+        <item>掠:pillage</item>
+        <item>掴:clutch</item>
+        <item>捺:impress</item>
+        <item>掻:scratch</item>
+        <item>撰:assortment</item>
+        <item>揃:muster</item>
+        <item>捌:deal with</item>
+        <item>撹:churn up</item>
+        <item>摺:rubbing</item>
+        <item>按:press down on</item>
+        <item>播:disseminate</item>
+        <item>揖:interpretation</item>
+        <item>托:receptable</item>
+        <item>捧:dedicate (RTK3)</item>
+        <item>撚:twirl</item>
+        <item>挺:counter for tools</item>
+        <item>擾:commotion</item>
+        <item>撫:petting</item>
+        <item>撒:sprinkle</item>
+        <item>擢:outstanding</item>
+        <item>捷:spoils</item>
+        <item>抉:gouge out</item>
+        <item>怯:wince</item>
+        <item>惟:ponder</item>
+        <item>惚:infatuation</item>
+        <item>怜:quickwitted</item>
+        <item>惇:considerate</item>
+        <item>恰:as if</item>
+        <item>恢:enlarge</item>
+        <item>悌:respect for elders</item>
+        <item>澪:canal</item>
+        <item>洸:glistening</item>
+        <item>滉:bounding main</item>
+        <item>漱:gargle</item>
+        <item>洲:continent</item>
+        <item>洵:swirling waters</item>
+        <item>滲:seep</item>
+        <item>洒:rinse</item>
+        <item>沐:douse</item>
+        <item>泪:teardrops</item>
+        <item>渾:gushing</item>
+        <item>涜:blaspheme</item>
+        <item>梁:roofbeam</item>
+        <item>澱:sediment</item>
+        <item>洛:old Kyoto</item>
+        <item>汝:thou</item>
+        <item>漉:filter</item>
+        <item>瀕:on the verge of</item>
+        <item>濠:moat</item>
+        <item>溌:spray</item>
+        <item>湊:port</item>
+        <item>淋:solitude</item>
+        <item>浩:abounding</item>
+        <item>汀:water\'s edge</item>
+        <item>鴻:large goose</item>
+        <item>潅:souse</item>
+        <item>溢:brimming</item>
+        <item>湛:inundate</item>
+        <item>淳:immaculate</item>
+        <item>渥:moisten</item>
+        <item>灘:rough seas</item>
+        <item>汲:draw water</item>
+        <item>瀞:river pool</item>
+        <item>溜:cumulation</item>
+        <item>渕:abyss</item>
+        <item>沌:chaos</item>
+        <item>濾:strainer</item>
+        <item>濡:drench</item>
+        <item>淀:eddy</item>
+        <item>涅:fabrication</item>
+        <item>斧:hatchet</item>
+        <item>爺:grandpa</item>
+        <item>猾:sly</item>
+        <item>猥:indecent</item>
+        <item>狡:cunning</item>
+        <item>狸:racoon dog</item>
+        <item>狼:wolf</item>
+        <item>狽:flustered</item>
+        <item>狗:pup</item>
+        <item>狐:fox</item>
+        <item>狛:a-un</item>
+        <item>獅:lion</item>
+        <item>狒:baboon</item>
+        <item>莨:tobacco</item>
+        <item>茉:jasmine</item>
+        <item>莉:hawthorn</item>
+        <item>苺:strawberry</item>
+        <item>萩:bush clover</item>
+        <item>藝:technique [old]</item>
+        <item>薙:trim</item>
+        <item>蓑:straw raincoat</item>
+        <item>苔:moss</item>
+        <item>蕩:prodigal</item>
+        <item>蔓:tendril</item>
+        <item>蓮:lotus</item>
+        <item>芙:lotus flower</item>
+        <item>蓉:lotus blossom</item>
+        <item>蘭:orchid</item>
+        <item>芦:hollow reed</item>
+        <item>薯:yam</item>
+        <item>菖:iris</item>
+        <item>蕉:banana</item>
+        <item>蕎:buckwheat</item>
+        <item>蕗:butterbur</item>
+        <item>茄:eggplant</item>
+        <item>蔭:behind the scenes</item>
+        <item>蓬:wormwood</item>
+        <item>芥:mustard</item>
+        <item>萌:germinate</item>
+        <item>葡:grape</item>
+        <item>萄:grape vine</item>
+        <item>蘇:resurrect</item>
+        <item>蕃:grow wild</item>
+        <item>苓:cocklebur</item>
+        <item>菰:rush mat</item>
+        <item>蒙:darken</item>
+        <item>茅:grassy reed</item>
+        <item>芭:plantain</item>
+        <item>苅:mow</item>
+        <item>葱:onion</item>
+        <item>葵:hollyhock</item>
+        <item>葺:shingling</item>
+        <item>蕊:stamen</item>
+        <item>茸:mushroom</item>
+        <item>蒔:sowing</item>
+        <item>芹:parsley</item>
+        <item>苫:thatching</item>
+        <item>蒼:pale blue</item>
+        <item>藁:straw</item>
+        <item>蕪:turnip</item>
+        <item>藷:sweet potato</item>
+        <item>薮:quack</item>
+        <item>蒜:garlic</item>
+        <item>蕨:bracken</item>
+        <item>蔚:grow plentiful</item>
+        <item>茜:madder red</item>
+        <item>莞:candle rush</item>
+        <item>蒐:collector</item>
+        <item>菅:sedge</item>
+        <item>葦:ditch reed</item>
+        <item>迪:Way</item>
+        <item>辿:track down</item>
+        <item>這:crawl</item>
+        <item>迂:detour</item>
+        <item>遁:elude (RTK3)</item>
+        <item>逢:tryst</item>
+        <item>遥:far off</item>
+        <item>遼:remote (RTK3)</item>
+        <item>逼:pressing</item>
+        <item>迄:until</item>
+        <item>逗:standstill</item>
+        <item>郁:cultured</item>
+        <item>鄭:courtesy</item>
+        <item>隈:nook</item>
+        <item>憑:possessed</item>
+        <item>惹:attract</item>
+        <item>悉:without exception</item>
+        <item>忽:instantaneously</item>
+        <item>惣:firstborn son</item>
+        <item>愈:in the nick of time</item>
+        <item>恕:sensitive</item>
+        <item>昴:overarching</item>
+        <item>晋:progress</item>
+        <item>晟:aglow</item>
+        <item>暈:halo</item>
+        <item>暉:glitter</item>
+        <item>旱:dry weather</item>
+        <item>晏:clear skies</item>
+        <item>晨:morrow</item>
+        <item>晒:bleaching</item>
+        <item>晃:limpid</item>
+        <item>曝:air out</item>
+        <item>曙:dawn</item>
+        <item>昂:elevate</item>
+        <item>昏:dusk</item>
+        <item>晦:last day of the month</item>
+        <item>膿:pus</item>
+        <item>腑:viscera</item>
+        <item>胱:bladder</item>
+        <item>胚:embryo</item>
+        <item>肛:anus</item>
+        <item>脆:fragile</item>
+        <item>肋:rib</item>
+        <item>腔:body cavity</item>
+        <item>肱:armrest</item>
+        <item>胡:uncivilized</item>
+        <item>楓:maple tree</item>
+        <item>楊:purple willow</item>
+        <item>椋:Oriental elm</item>
+        <item>榛:hazel</item>
+        <item>櫛:comb</item>
+        <item>槌:wooden hammer</item>
+        <item>樵:mallet</item>
+        <item>梯:ladder</item>
+        <item>柑:citrus tree</item>
+        <item>杭:picket</item>
+        <item>柊:holly</item>
+        <item>柚:citron</item>
+        <item>椀:wooden bowl</item>
+        <item>栂:hemlock</item>
+        <item>柾:spindle tree</item>
+        <item>榊:sacred Shinto tree</item>
+        <item>樫:evergreen oak</item>
+        <item>槙:Chinese black pine</item>
+        <item>楢:Japanese oak</item>
+        <item>橘:mandarin orange</item>
+        <item>桧:Japanese cypress</item>
+        <item>棲:roost</item>
+        <item>栖:nestle</item>
+        <item>桔:bellflower</item>
+        <item>杜:temple grove</item>
+        <item>杷:grain rake</item>
+        <item>梶:oar</item>
+        <item>杵:wooden pestle</item>
+        <item>杖:cane</item>
+        <item>樽:barrel</item>
+        <item>櫓:turret</item>
+        <item>橿:sturdy oak</item>
+        <item>杓:wooden ladle</item>
+        <item>李:damson</item>
+        <item>棉:raw cotton</item>
+        <item>楯:escutcheon</item>
+        <item>榎:hackberry</item>
+        <item>樺:birch</item>
+        <item>槍:lance</item>
+        <item>柘:wild mulberry</item>
+        <item>梱:bale</item>
+        <item>枇:loquat</item>
+        <item>樋:downspout</item>
+        <item>橇:sled</item>
+        <item>槃:enjoyment</item>
+        <item>栞:bookmark</item>
+        <item>椰:coconut tree</item>
+        <item>檀:sandalwood</item>
+        <item>樗:plotosid</item>
+        <item>槻:zelkova</item>
+        <item>椙:cryptomeria</item>
+        <item>彬:copious</item>
+        <item>桶:bucket</item>
+        <item>楕:ellipse</item>
+        <item>樒:star-anise</item>
+        <item>毬:furball</item>
+        <item>燿:twinkle</item>
+        <item>燎:watchfire</item>
+        <item>炬:torch</item>
+        <item>焚:kindle</item>
+        <item>灸:moxa</item>
+        <item>燭:candlelight</item>
+        <item>煽:fanning</item>
+        <item>煤:soot</item>
+        <item>煉:firing</item>
+        <item>燦:dazzling</item>
+        <item>灼:refulgent</item>
+        <item>烙:branding</item>
+        <item>焔:flames</item>
+        <item>熔:fuse metal</item>
+        <item>烹:stew</item>
+        <item>牽:tug</item>
+        <item>牝:female animal</item>
+        <item>牡:male animal</item>
+        <item>瑶:precious stone</item>
+        <item>琳:chime</item>
+        <item>琉:lapis lazuli</item>
+        <item>瑳:burnish</item>
+        <item>琢:hone</item>
+        <item>珊:coral</item>
+        <item>瑚:coral reef</item>
+        <item>瑞:fortunate</item>
+        <item>珪:silicon</item>
+        <item>玖:jet</item>
+        <item>瑛:crystal stone</item>
+        <item>玲:tinkling</item>
+        <item>畢:lastly</item>
+        <item>畦:paddy-field ridge</item>
+        <item>痒:itch</item>
+        <item>痰:phlegm</item>
+        <item>疹:measles</item>
+        <item>痔:hemorrhoids</item>
+        <item>癌:cancer</item>
+        <item>痺:paralysis</item>
+        <item>眸:apple of the eye</item>
+        <item>眩:dizzy</item>
+        <item>雉:pheasant</item>
+        <item>矩:carpenter\'s square</item>
+        <item>磐:crag</item>
+        <item>碇:grapnel</item>
+        <item>碧:blue-green</item>
+        <item>硯:inkstone</item>
+        <item>砥:grindstone</item>
+        <item>碗:teacup</item>
+        <item>碍:obstacle</item>
+        <item>碩:illustrious</item>
+        <item>磯:rocky beach</item>
+        <item>砺:whetstone</item>
+        <item>碓:mill</item>
+        <item>禦:fend off</item>
+        <item>祷:beseech</item>
+        <item>祐:ancestral tablet</item>
+        <item>祇:local god</item>
+        <item>祢:ancestral shrine</item>
+        <item>禄:salarium</item>
+        <item>禎:felicitation</item>
+        <item>秤:balancing scales</item>
+        <item>黍:millet</item>
+        <item>禿:bald</item>
+        <item>稔:bear fruit</item>
+        <item>稗:crabgrass</item>
+        <item>穣:bumper crop</item>
+        <item>稜:imperial authority</item>
+        <item>稀:sparse</item>
+        <item>穆:obeisant</item>
+        <item>窺:peep</item>
+        <item>窄:tight</item>
+        <item>穿:drill</item>
+        <item>竃:kitchen stove</item>
+        <item>竪:longness</item>
+        <item>颯:rustling</item>
+        <item>站:outpost</item>
+        <item>靖:repose</item>
+        <item>妾:concubine</item>
+        <item>衿:lapel</item>
+        <item>袷:lined kimono</item>
+        <item>袴:pleated skirt</item>
+        <item>襖:sliding door</item>
+        <item>笙:Chinese panpipe</item>
+        <item>筏:raft</item>
+        <item>簾:bamboo blinds</item>
+        <item>箪:rattan box</item>
+        <item>竿:pole</item>
+        <item>箆:spatula</item>
+        <item>箔:foil</item>
+        <item>笥:wardrobe</item>
+        <item>箭:arrow shaft</item>
+        <item>筑:ancient harp</item>
+        <item>篠:slender bamboo</item>
+        <item>箸:chopsticks</item>
+        <item>纂:redaction</item>
+        <item>竺:bamboo cane</item>
+        <item>箕:winnowing fan</item>
+        <item>笈:backpack</item>
+        <item>篇:livraison</item>
+        <item>筈:should</item>
+        <item>簸:winnow</item>
+        <item>粕:settlings</item>
+        <item>糟:lees</item>
+        <item>糊:paste</item>
+        <item>籾:unhulled rice</item>
+        <item>糠:rice bran</item>
+        <item>糞:excrement</item>
+        <item>粟:foxtail millet</item>
+        <item>繋:link up</item>
+        <item>綸:twine</item>
+        <item>絨:carpet yarn</item>
+        <item>絆:ties</item>
+        <item>緋:scarlet</item>
+        <item>綜:synthesis</item>
+        <item>紐:string</item>
+        <item>紘:chinstrap</item>
+        <item>纏:summarize</item>
+        <item>絢:gorgeous</item>
+        <item>繍:embroidery</item>
+        <item>紬:pongee</item>
+        <item>綺:ornate</item>
+        <item>綾:damask</item>
+        <item>絃:catgut</item>
+        <item>縞:stripe</item>
+        <item>綬:gimp</item>
+        <item>紗:gossamer</item>
+        <item>舵:rudder</item>
+        <item>聯:strung together</item>
+        <item>聡:attentive</item>
+        <item>聘:summons</item>
+        <item>耽:addiction</item>
+        <item>耶:exclamation</item>
+        <item>蚤:flea</item>
+        <item>蟹:crab</item>
+        <item>蛋:protein</item>
+        <item>蟄:hibernation</item>
+        <item>蝿:housefly</item>
+        <item>蟻:ant</item>
+        <item>蝋:wax</item>
+        <item>蝦:shrimp</item>
+        <item>蛸:octopus</item>
+        <item>螺:screw</item>
+        <item>蝉:cicada</item>
+        <item>蛙:frog</item>
+        <item>蛾:moth</item>
+        <item>蛤:clam</item>
+        <item>蛭:leech</item>
+        <item>蛎:oyster</item>
+        <item>罫:ruled lines</item>
+        <item>袈:stole</item>
+        <item>裟:monk\'s sash</item>
+        <item>截:incision</item>
+        <item>哉:I wonder</item>
+        <item>詢:counsel</item>
+        <item>諄:polite</item>
+        <item>讐:vendetta</item>
+        <item>諌:remonstrate</item>
+        <item>諒:verify</item>
+        <item>讃:compliment</item>
+        <item>訊:query</item>
+        <item>訣:split up</item>
+        <item>詑:prevarication</item>
+        <item>誼:familiarity</item>
+        <item>謬:fallible</item>
+        <item>詫:beg pardon</item>
+        <item>諏:advise</item>
+        <item>諺:proverb</item>
+        <item>誹:slander</item>
+        <item>謂:so-called</item>
+        <item>諜:secret agent</item>
+        <item>註:footnote</item>
+        <item>譬:parable</item>
+        <item>轟:rumble</item>
+        <item>輔:reinforce</item>
+        <item>輻:spoke</item>
+        <item>輯:assemble</item>
+        <item>豹:panther</item>
+        <item>賎:despicable</item>
+        <item>貰:get</item>
+        <item>賑:bustling</item>
+        <item>躓:stumble</item>
+        <item>蹄:hoof</item>
+        <item>蹟:vestiges</item>
+        <item>跨:straddle</item>
+        <item>跪:kneel</item>
+        <item>醤:soy sauce</item>
+        <item>醍:whey</item>
+        <item>醐:ghee</item>
+        <item>醇:strong saké</item>
+        <item>麹:malt</item>
+        <item>釦:button</item>
+        <item>銚:keg</item>
+        <item>鋤:plow</item>
+        <item>鏑:arrowhead</item>
+        <item>鋸:handsaw</item>
+        <item>錐:awl</item>
+        <item>鍬:hoe</item>
+        <item>鋲:rivet</item>
+        <item>錫:tin</item>
+        <item>錨:anchor</item>
+        <item>釘:nail</item>
+        <item>鑓:javelin</item>
+        <item>鋒:sword\'s point</item>
+        <item>鎚:hammer</item>
+        <item>鉦:carillion</item>
+        <item>錆:rust</item>
+        <item>鍾:cluster</item>
+        <item>鋏:scissors</item>
+        <item>閃:flash</item>
+        <item>悶:agony</item>
+        <item>閤:side gate</item>
+        <item>雫:trickle</item>
+        <item>霞:haze</item>
+        <item>翰:quill</item>
+        <item>斡:auspices</item>
+        <item>鞍:saddle</item>
+        <item>鞭:whip</item>
+        <item>鞘:saddle straps</item>
+        <item>鞄:briefcase</item>
+        <item>靭:pliable</item>
+        <item>鞠:terminate</item>
+        <item>顛:overturn</item>
+        <item>穎:brush tip</item>
+        <item>頗:exceedingly</item>
+        <item>頌:accolade</item>
+        <item>頚:neck and throat</item>
+        <item>餐:repast</item>
+        <item>饗:feast</item>
+        <item>蝕:eclipse</item>
+        <item>飴:sweets</item>
+        <item>駕:stretcher</item>
+        <item>騨:piebald</item>
+        <item>馳:rush</item>
+        <item>騙:cheat</item>
+        <item>馴:tame</item>
+        <item>駁:rebuttal</item>
+        <item>駈:gallop</item>
+        <item>驢:donkey</item>
+        <item>鰻:eel</item>
+        <item>鯛:sea bream</item>
+        <item>鰯:sardine</item>
+        <item>鱒:trout</item>
+        <item>鮭:salmon</item>
+        <item>鮪:tuna</item>
+        <item>鮎:sweet smelt</item>
+        <item>鯵:horse mackerel</item>
+        <item>鱈:cod</item>
+        <item>鯖:mackerel</item>
+        <item>鮫:shark</item>
+        <item>鰹:bonito</item>
+        <item>鰍:bullhead</item>
+        <item>鰐:alligator</item>
+        <item>鮒:crucian</item>
+        <item>鮨:sushi</item>
+        <item>鰭:fish fin</item>
+        <item>鴎:seagull</item>
+        <item>鵬:roc</item>
+        <item>鸚:parakeet</item>
+        <item>鵡:parrot</item>
+        <item>鵜:cormorant</item>
+        <item>鷺:heron</item>
+        <item>鷲:eagle</item>
+        <item>鴨:wild duck</item>
+        <item>鳶:kite falcon</item>
+        <item>梟:owl</item>
+        <item>塵:dust</item>
+        <item>麒:giraffe</item>
+        <item>瞑:close the eyes</item>
+        <item>暝:murky</item>
+        <item>坐:sitting in mediation</item>
+        <item>朔:first day of the month</item>
+        <item>曳:drag</item>
+        <item>洩:dribble out</item>
+        <item>彗:comet</item>
+        <item>慧:astute</item>
+        <item>嘉:applaud</item>
+        <item>兇:evil</item>
+        <item>兜:helmet</item>
+        <item>欝:depressed</item>
+        <item>劫:kalpa</item>
+        <item>歎:bemoan</item>
+        <item>輿:palanquin</item>
+        <item>巽:southeast</item>
+        <item>歪:warped</item>
+        <item>翠:jade green</item>
+        <item>黛:blue-black</item>
+        <item>鼎:tripod</item>
+        <item>鹵:rocksalt</item>
+        <item>鹸:lye</item>
+        <item>虔:reserved</item>
+        <item>燕:swallow</item>
+        <item>嘗:lick</item>
+        <item>殆:almost</item>
+        <item>孟:start</item>
+        <item>牌:mahjong tiles</item>
+        <item>覗:peek</item>
+        <item>彪:mottled</item>
+        <item>秦:Manchu dynasty</item>
+        <item>雀:sparrow</item>
+        <item>隼:peregrine falcon</item>
+        <item>耀:shimmering</item>
+        <item>夷:ebisu</item>
+        <item>嚢:cyst</item>
+        <item>暢:carefree</item>
+        <item>廻:circling</item>
+        <item>欣:elation</item>
+        <item>毅:stalwart</item>
+        <item>斯:this</item>
+        <item>匙:wooden spoon</item>
+        <item>匡:set straight</item>
+        <item>肇:founding</item>
+        <item>麿:Utamaro</item>
+        <item>叢:conglomerate</item>
+        <item>肴:entreat</item>
+        <item>斐:symmetrically patterned</item>
+        <item>卿:magistrate</item>
+        <item>翫:fiddle with</item>
+        <item>於:within</item>
+        <item>套:hackneyed</item>
+        <item>叛:rebellion</item>
+        <item>尖:sharp point</item>
+        <item>壷:crock</item>
+        <item>叡:sapience</item>
+        <item>酋:chieftain</item>
+        <item>鴬:nightingale</item>
+        <item>赫:incandescent</item>
+        <item>臥:supinate</item>
+        <item>甥:nephew</item>
+        <item>瓢:gourd</item>
+        <item>琵:biwa</item>
+        <item>琶:lute</item>
+        <item>叉:forked</item>
+        <item>舜:rose of Sharon</item>
+        <item>畠:dry field</item>
+        <item>圃:vegetable patch</item>
+        <item>丞:helping hand</item>
+        <item>亮:translucent</item>
+        <item>胤:blood relative</item>
+        <item>疏:transcription</item>
+        <item>膏:ointment</item>
+        <item>魁:pioneer</item>
+        <item>馨:ambrosial</item>
+        <item>牒:label</item>
+        <item>瞥:glimpse</item>
+        <item>睾:testicle</item>
+        <item>巫:sorceress</item>
+        <item>敦:empathetic</item>
+        <item>奎:Andromeda</item>
+        <item>翔:soar</item>
+        <item>皓:beaming</item>
+        <item>黎:tenebrous</item>
+        <item>赳:bold</item>
+        <item>已:stop short</item>
+        <item>棘:thornbush</item>
+        <item>聚:crowd</item>
+        <item>甦:resucitate</item>
+        <item>剪:pruning</item>
+        <item>躾:upbringing</item>
+        <item>夥:plentiful</item>
+        <item>鼾:snore</item>
+        <item>祟:cast a spell</item>
+        <item>粁:kilometer</item>
+        <item>糎:centimeter</item>
+        <item>粍:millimeter</item>
+        <item>噸:ton</item>
+        <item>哩:mile</item>
+        <item>浬:nautical mile</item>
+        <item>吋:inch</item>
+        <item>呎:feet</item>
+        <item>梵:brahman</item>
+        <item>陀:Shakyamuni Buddha</item>
+        <item>薩:bodhisattva</item>
+        <item>菩:bo tree</item>
+        <item>唖:babble</item>
+        <item>迦:Sanskrit ka</item>
+        <item>牟:moo</item>
+        <item>珈:jeweled hairpin</item>
+        <item>琲:beaded hairpin</item>
+        <item>檜:Japanese cypress [old]</item>
+        <item>轡:bridle\'s bit</item>
+        <item>淵:abyss [old]</item>
+        <item>伍:V</item>
+        <item>什:X</item>
+        <item>萬:ten thousand [old]</item>
+        <item>邁:pass through</item>
+        <item>逞:tough</item>
+        <item>燈:lamp [old]</item>
+        <item>裡:back [old]</item>
+        <item>薗:park [alternate]</item>
+        <item>鋪:shop [alternate]</item>
+        <item>嶋:island [alternate]</item>
+        <item>峯:summit [alternate]</item>
+        <item>巌:boulder [old]</item>
+        <item>埜:plains [old]</item>
+        <item>舘:Bldg. [old]</item>
+        <item>龍:dragon [old]</item>
+        <item>寵:patronage</item>
+        <item>聾:deafness</item>
+        <item>慾:longing [old]</item>
+        <item>亙:span [old]</item>
+        <item>躯:body [old]</item>
+        <item>嶽:Point [old]</item>
+        <item>國:country [old]</item>
+        <item>脛:shin</item>
+        <item>勁:formidable</item>
+        <item>祀:enshrine</item>
+        <item>祓:exorcism</item>
+        <item>躇:dither</item>
+        <item>壽:longevity [old]</item>
+        <item>躊:hesitate</item>
+        <item>饅:bean jam</item>
+        <item>嘔:retch</item>
+        <item>鼈:snapping turtle</item>
+        <item>亨:go smoothly</item>
+        <item>侑:condone</item>
+        <item>梧:parasol tree</item>
+        <item>欽:circumspect</item>
+        <item>煕:cheer</item>
+        <item>而:and then</item>
+        <item>掟:mandate</item>
+
+    </string-array>
+</resources>
+
+
+
