@@ -22,7 +22,7 @@ public final class PreferenceHelper {
     private static PreferenceHelper instance;
 
     public static void initInstance(Context context) {
-        if (instance != null) throw new IllegalStateException("initInstance has already been called");
+        //if (instance != null) throw new IllegalStateException("initInstance has already been called");
         instance = new PreferenceHelper(context);
     }
 
