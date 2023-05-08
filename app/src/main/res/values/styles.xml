@@ -1,9 +1,0 @@
-<resources>
-
-    <!-- Base application theme. -->
-    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
-        <item name="switchStyle">@style/Widget.Holo.CompoundButton.Switch</item>
-        <item name="switchPreferenceStyle">@style/Preference.SwitchPreference</item>
-    </style>
-
-</resources>
